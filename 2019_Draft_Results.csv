@@ -1,0 +1,558 @@
+,Rank,Name,FTeam,Type,Position,Pos_Rank,Notes,Team,ADP,Available,Pos_x,Avg,Class,Details,Bye,Best,Worst,Std Dev,First_Name,Last_Name,Player_ID,Tm,Pos_y,Player,Summary,Rank1,Name1
+0,1,Saquon Barkley,Dad,,RB,1,#1 Pick,NYG,1.0,N,RB1,1.5,,,11,1,7,0.7,Saquon,Barkley,BarkleyS.,,,,Saquon BarkleyS. Barkley NYG,1,Saquon Barkley
+1,2,Alvin Kamara,Pete,,RB,2,Top RB pick,NO,2.0,N,RB2,2.7,,,9,1,11,1.2,Alvin,Kamara,KamaraA.,,,,Alvin KamaraA. Kamara NO,2,Alvin Kamara
+2,3,Christian McCaffrey,Vinnie,,RB,3,Top RB pick,CAR,3.0,N,RB3,2.8,,,7,1,12,1.5,Christian,McCaffrey,McCaffreyC.,,,,Christian McCaffreyC. McCaffrey CAR,3,Christian McCaffrey
+3,4,Ezekiel Elliott,Trav,Holdout,RB,4,"? Due to holdout, wouldn't draft",DAL,4.0,N,RB4,6.5,I-R,Elliott will not attend training camp as he is unsatisfied with his current contract and has been placed on the Did Not Report list.,8,1,67,7.4,Ezekiel,Elliott,ElliottE.,DAL,RB,Ezekiel Elliott,Ezekiel ElliottE. Elliott DAL,4,Ezekiel Elliott
+4,5,David Johnson,Bob,,RB,5,New QB so unsure,ARI,6.0,N,RB5,7.4,,,12,2,36,4.5,David,Johnson,JohnsonD.,,,,David JohnsonD. Johnson ARI,5,David Johnson
+5,6,Nick Chubb,Joe,,RB,6,,CLE,10.0,N,RB6,7.6,,,7,1,24,4.2,Nick,Chubb,ChubbN.,,,,Nick ChubbN. Chubb CLE,6,Nick Chubb
+6,7,DeAndre Hopkins,Austin,,WR,1,,HOU,5.0,N,WR1,8.6,,,10,4,17,2.2,DeAndre,Hopkins,HopkinsD.,,,,DeAndre HopkinsD. Hopkins HOU,7,DeAndre Hopkins
+7,8,James Conner,Kevin,,RB,7,,PIT,7.0,N,RB7,9.2,,,7,2,55,5.3,James,Conner,ConnerJ.,,,,James ConnerJ. Conner PIT,8,James Conner
+8,9,Davante Adams,Big Vin,,WR,2,,GB,9.0,N,WR2,10.5,,,11,5,24,2.8,Davante,Adams,AdamsD.,,,,Davante AdamsD. Adams GB,9,Davante Adams
+9,10,Le'Veon Bell,Mel,,RB,8,,NYJ,8.0,N,RB8,12.1,,,4,2,40,5.8,Le'Veon,Bell,BellL.,,,,Le'Veon BellL. Bell NYJ,10,Le'Veon Bell
+10,11,Julio Jones,Kevin,,WR,3,,ATL,12.0,N,WR3,12.2,,,9,5,29,3.5,Julio,Jones,JonesJ.,,,,Julio JonesJ. Jones ATL,11,Julio Jones
+11,12,Odell Jr.O.,Trav,,WR,4,On new team,Beckham CLE,18.0,N,WR4,13.4,,,7,6,21,3.7,Odell,Jr.O.,Beckham,,,,Odell Beckham Jr.O. Beckham CLE,12,Odell Jr.O.
+12,13,Joe Mixon,Dennis,,RB,9,,CIN,16.0,N,RB9,14.5,,,9,5,35,6.0,Joe,Mixon,MixonJ.,,,,Joe MixonJ. Mixon CIN,13,Joe Mixon
+13,14,Dalvin Cook,Pete,,RB,10,,MIN,17.0,N,RB10,15.0,,,12,4,40,6.3,Dalvin,Cook,CookD.,,,,Dalvin CookD. Cook MIN,14,Dalvin Cook
+14,15,Tyreek Hill,Joe,,WR,5,,KC,15.0,N,WR5,15.3,,,12,7,30,4.7,Tyreek,Hill,HillT.,,,,Tyreek HillT. Hill KC,16,Tyreek Hill
+15,16,Travis Kelce,Steve,,TE,1,,KC,20.0,N,TE1,15.4,,,12,7,37,3.0,Travis,Kelce,KelceT.,,,,Travis KelceT. Kelce KC,15,Travis Kelce
+16,17,Todd Gurley,Bob,,RB,11,,LAR,11.0,N,RB11,16.2,,,9,2,64,9.3,Todd,Gurley,GurleyT.,,,,Todd GurleyT. Gurley LAR,17,Todd Gurley
+17,18,JuJu Smith-Schuster,Steve,,WR,6,#1 in Pittsburgh now,PIT,19.0,N,WR6,16.5,,,7,6,31,4.6,JuJu,Smith-Schuster,Smith-SchusterJ.,,,,JuJu Smith-SchusterJ. Smith-Schuster PIT,18,JuJu Smith-Schuster
+18,19,Michael Thomas,Big Vin,,WR,7,,NO,14.0,N,WR7,18.1,,,9,8,37,4.1,Michael,Thomas,ThomasM.,,,,Michael ThomasM. Thomas NO,19,Michael Thomas
+19,20,Mike Evans,Dad,,WR,8,,TB,22.0,N,WR8,20.3,,,7,11,31,3.2,Mike,Evans,EvansM.,,,,Mike EvansM. Evans TB,20,Mike Evans
+20,21,Keenan Allen,Austin,,WR,9,,LAC,27.0,N,WR9,25.8,,,12,17,44,4.2,Keenan,Allen,AllenK.,,,,Keenan AllenK. Allen LAC,21,Keenan Allen
+21,22,Aaron Jones,Mel,,RB,12,,GB,28.0,N,RB12,27.2,,,11,7,63,9.7,Aaron,Jones,JonesA.,,,,Aaron JonesA. Jones GB,22,Aaron Jones
+22,23,Antonio Brown,Mel,Foot,WR,10,"On new team, frostbite on foot but should be good.",OAK,24.0,N,WR10,27.4,probable,Brown has frostbite on his feet but is likely to suit up for Week 1 against the Broncos.,6,16,53,6.6,Antonio,Brown,BrownA.,OAK,WR,Antonio Brown,Antonio BrownA. Brown OAK,23,Antonio Brown
+23,24,Chris Carson,Pete,,RB,13,,SEA,34.0,N,RB13,28.8,,,11,11,72,9.7,Chris,Carson,CarsonC.,,,,Chris CarsonC. Carson SEA,24,Chris Carson
+24,25,Kerryon Johnson,Big Vin,,RB,14,,DET,26.0,N,RB14,29.2,,,5,12,51,7.9,Kerryon,Johnson,JohnsonK.,,,,Kerryon JohnsonK. Johnson DET,25,Kerryon Johnson
+25,26,Leonard Fournette,Austin,,RB,15,,JAC,21.0,N,RB15,29.6,,,10,9,57,8.4,Leonard,Fournette,FournetteL.,,,,Leonard FournetteL. Fournette JAC,26,Leonard Fournette
+26,27,Adam Thielen,Vinnie,,WR,11,,MIN,25.0,N,WR11,30.9,,,12,19,64,6.3,Adam,Thielen,ThielenA.,,,,Adam ThielenA. Thielen MIN,27,Adam Thielen
+27,28,Derrick Henry,Austin,Calf,RB,16,,TEN,36.0,N,RB16,32.1,probable,Henry is expected to be ready for Week 1 against the Browns despite a strained calf.,11,7,67,10.6,Derrick,Henry,HenryD.,TEN,RB,Derrick Henry,Derrick HenryD. Henry TEN,29,Derrick Henry
+28,29,Amari Cooper,Bob,,WR,12,,DAL,33.0,N,WR12,32.1,,,8,18,60,7.1,Amari,Cooper,CooperA.,,,,Amari CooperA. Cooper DAL,28,Amari Cooper
+29,30,Brandin Cooks,Bob,,WR,13,,LAR,40.0,N,WR13,32.9,,,9,20,69,6.6,Brandin,Cooks,CooksB.,,,,Brandin CooksB. Cooks LAR,30,Brandin Cooks
+30,31,Devonta Freeman,Steve,,RB,17,,ATL,31.0,N,RB17,33.1,,,9,7,60,8.8,Devonta,Freeman,FreemanD.,,,,Devonta FreemanD. Freeman ATL,31,Devonta Freeman
+31,32,George Kittle,Joe,Calf,TE,2,,SF,29.0,N,TE2,33.4,probable,Kittle is dealing with calf tightness and is likely to suit up Week 1 against the Buccaneers.,4,17,70,7.4,George,Kittle,KittleG.,SFO,TE,George Kittle,George KittleG. Kittle SF,33,George Kittle
+32,33,Sony Michel,Dennis,,RB,18,,NE,46.0,N,RB18,34.5,,,10,12,70,11.1,Sony,Michel,MichelS.,,,,Sony MichelS. Michel NE,34,Sony Michel
+33,34,Patrick Mahomes,Dennis,,QB,1,,KC,13.0,N,QB1,34.9,,,12,13,65,8.9,Patrick,Mahomes,MahomesP.,,,,Patrick MahomesP. Mahomes KC,35,Patrick Mahomes
+34,35,Stefon Diggs,Trav,,WR,14,,MIN,35.0,N,WR14,35.2,,,12,21,54,7.0,Stefon,Diggs,DiggsS.,,,,Stefon DiggsS. Diggs MIN,36,Stefon Diggs
+35,36,Zach Ertz,Vinnie,,TE,3,,PHI,30.0,N,TE3,36.2,,,10,19,67,8.9,Zach,Ertz,ErtzZ.,,,,Zach ErtzZ. Ertz PHI,37,Zach Ertz
+36,37,Robert Woods,Kevin,,WR,15,,LAR,45.0,N,WR15,37.4,,,9,23,70,8.4,Robert,Woods,WoodsR.,,,,Robert WoodsR. Woods LAR,38,Robert Woods
+37,38,Josh Jacobs,Kevin,,RB,19,,OAK,32.0,N,RB19,39.3,,,6,16,139,8.7,Josh,Jacobs,JacobsJ.,,,,Josh JacobsJ. Jacobs OAK,39,Josh Jacobs
+38,39,Chris Godwin,Dennis,,WR,16,,TB,50.0,N,WR16,42.2,,,7,20,81,9.7,Chris,Godwin,GodwinC.,,,,Chris GodwinC. Godwin TB,40,Chris Godwin
+39,40,Damien Williams,Joe,,RB,20,,KC,23.0,N,RB20,42.4,,,12,17,73,14.2,Damien,Williams,WilliamsD.,,,,Damien WilliamsD. Williams KC,32,Damien Williams
+40,41,David Montgomery,Steve,,RB,21,,CHI,41.0,N,RB21,42.9,,,6,9,201,13.2,David,Montgomery,MontgomeryD.,,,,David MontgomeryD. Montgomery CHI,41,David Montgomery
+41,42,Tyler Lockett,Pete,,WR,17,,SEA,48.0,N,WR17,43.1,,,11,20,78,12.4,Tyler,Lockett,LockettT.,,,,Tyler LockettT. Lockett SEA,42,Tyler Lockett
+42,43,Mark Ingram,Vinnie,,RB,22,"New team, lead running back now.",BAL,43.0,N,RB22,43.5,,,8,14,68,10.8,Mark,Ingram,IngramM.,,,,Mark IngramM. Ingram BAL,43,Mark Ingram
+43,44,Melvin Gordon,Trav,Holdout,RB,23,Might get traded / not guaranteed to play,LAC,37.0,N,RB23,44.4,I-R,Gordon III is holding out of training camp in hopes of getting a new contract and has landed on the Injured Reserve/Did Not Report list.,12,5,149,19.4,Melvin,Gordon,GordonM.,LAC,RB,Melvin Gordon,Melvin GordonM. Gordon LAC,44,Melvin Gordon
+44,45,Julian Edelman,Dad,,WR,18,,NE,44.0,N,WR18,44.9,,,10,21,90,9.7,Julian,Edelman,EdelmanJ.,,,,Julian EdelmanJ. Edelman NE,45,Julian Edelman
+45,46,Kenny Golladay,Steve,,WR,19,,DET,49.0,N,WR19,45.2,,,5,29,102,8.8,Kenny,Golladay,GolladayK.,,,,Kenny GolladayK. Golladay DET,46,Kenny Golladay
+46,47,Marlon Mack,Big Vin,,RB,24,Lost luck so ,IND,39.0,N,RB24,45.7,,,6,36,75,8.6,Marlon,Mack,MackM.,,,,Marlon MackM. Mack IND,47,Marlon Mack
+47,48,O.J. Howard,Austin,,TE,4,,TB,55.0,N,TE4,51.1,,,7,23,89,7.2,O.J.,Howard,HowardO.,,,,O.J. HowardO. Howard TB,48,O.J. Howard
+48,49,Deshaun Watson,Joe,,QB,2,,HOU,38.0,N,QB2,51.9,,,10,26,83,9.0,Deshaun,Watson,WatsonD.,,,,Deshaun WatsonD. Watson HOU,49,Deshaun Watson
+49,50,Cooper Kupp,Pete,Knee,WR,20,,LAR,51.0,N,WR20,53.0,probable,Kupp is recuperating from a torn ACL that ended his 2018 campaign. It is likely he will suit up Week 1 against the Panthers.,9,27,106,13.0,Cooper,Kupp,KuppC.,LAR,WR,Cooper Kupp,Cooper KuppC. Kupp LAR,50,Cooper Kupp
+50,51,Phillip Lindsay,Dennis,Wrist,RB,25,,DEN,52.0,N,RB25,54.7,probable,Lindsay is expected to be ready to play against the Raiders in Week 1 despite having offseason surgery to repair a right wrist injury.,10,27,82,10.3,Phillip,Lindsay,LindsayP.,DEN,RB,Phillip Lindsay,Phillip LindsayP. Lindsay DEN,51,Phillip Lindsay
+51,52,Tevin Coleman,Joe,,RB,26,Lead back for SF now.,SF,54.0,N,RB26,56.7,,,4,22,104,12.2,Tevin,Coleman,ColemanT.,,,,Tevin ColemanT. Coleman SF,52,Tevin Coleman
+52,53,T.Y. Hilton,Big Vin,,WR,21,New QB so unsure,IND,42.0,N,WR21,57.3,,,6,46,102,12.5,T.Y.,Hilton,HiltonT.,,,,T.Y. HiltonT. Hilton IND,53,T.Y. Hilton
+53,54,Mike Williams,Dennis,,WR,22,,LAC,58.0,N,WR22,58.4,,,12,30,88,11.4,Mike,Williams,WilliamsM.,,,,Mike WilliamsM. Williams LAC,54,Mike Williams
+54,55,Aaron Rodgers,Big Vin,,QB,3,,GB,47.0,N,QB3,59.4,,,11,32,100,10.0,Aaron,Rodgers,RodgersA.,,,,Aaron RodgersA. Rodgers GB,55,Aaron Rodgers
+55,56,Tyler Boyd,Mel,,WR,23,#1 WR until AJ Green is healthy (out 6 - 8 weeks).,CIN,56.0,N,WR23,60.6,,,9,31,107,13.3,Tyler,Boyd,BoydT.,,,,Tyler BoydT. Boyd CIN,56,Tyler Boyd
+56,57,D.J. Moore,Mel,,WR,24,,CAR,67.0,N,WR24,61.5,,,7,31,133,14.1,D.J.,Moore,MooreD.,,,,D.J. MooreD. Moore CAR,58,D.J. Moore
+57,58,Calvin Ridley,Vinnie,,WR,25,,ATL,53.0,N,WR25,61.5,,,9,31,96,12.1,Calvin,Ridley,RidleyC.,,,,Calvin RidleyC. Ridley ATL,57,Calvin Ridley
+58,59,Evan Engram,Dad,,TE,5,"If shephard injured, engram will be main receiver (TE).",NYG,60.0,N,TE5,63.0,,,11,37,131,13.7,Evan,Engram,EngramE.,,,,Evan EngramE. Engram NYG,59,Evan Engram
+59,60,Alshon Jeffery,Kevin,,WR,26,,PHI,63.0,N,WR26,64.4,,,10,41,102,11.9,Alshon,Jeffery,JefferyA.,,,,Alshon JefferyA. Jeffery PHI,61,Alshon Jeffery
+60,61,Duke Johnson,Steve,,RB,27,,HOU,70.0,N,RB27,64.5,,,10,39,102,13.7,Duke,Johnson,JohnsonD.,,,,Duke JohnsonD. Johnson HOU,60,Duke Johnson
+61,62,Hunter Henry,Bob,,TE,6,,LAC,66.0,N,TE6,64.9,,,12,26,142,15.2,Hunter,Henry,HenryH.,,,,Hunter HenryH. Henry LAC,63,Hunter Henry
+62,63,Allen Robinson,Bob,,WR,27,,CHI,78.0,N,WR27,65.0,,,6,38,121,14.0,Allen,Robinson,RobinsonA.,,,,Allen RobinsonA. Robinson CHI,62,Allen Robinson
+63,64,Josh Gordon,Dad,,WR,28,,NE,65.0,N,WR28,67.8,,,10,41,130,18.6,Josh,Gordon,GordonJ.,,,,Josh GordonJ. Gordon NE,64,Josh Gordon
+64,65,James White,Vinnie,,RB,28,,NE,61.0,N,RB28,68.8,,,10,45,124,13.2,James,White,WhiteJ.,,,,James WhiteJ. White NE,66,James White
+65,66,Robby Anderson,Pete,Calf,WR,29,,NYJ,74.0,N,WR29,69.0,questionable,"Anderson is battling a calf injury, and it has yet to be established if he will line up against the Bills in Week 1.",4,33,121,14.1,Robby,Anderson,AndersonR.,NYJ,WR,Robby Anderson,Robby AndersonR. Anderson NYJ,65,Robby Anderson
+66,67,Latavius Murray,Trav,,RB,29,Behind Kamara now,NO,83.0,N,RB29,69.0,,,9,22,143,14.9,Latavius,Murray,MurrayL.,,,,Latavius MurrayL. Murray NO,67,Latavius Murray
+67,68,Miles Sanders,Kevin,,RB,30,,PHI,68.0,N,RB30,69.2,,,10,39,227,25.2,Miles,Sanders,SandersM.,,,,Miles SandersM. Sanders PHI,68,Miles Sanders
+68,69,Baker Mayfield,Trav,,QB,4,,CLE,57.0,N,QB4,70.3,,,7,43,119,11.3,Baker,Mayfield,MayfieldB.,,,,Baker MayfieldB. Mayfield CLE,69,Baker Mayfield
+69,70,Matt Ryan,Trav,,QB,5,,ATL,62.0,N,QB5,74.0,,,9,25,123,14.9,Matt,Ryan,RyanM.,,,,Matt RyanM. Ryan ATL,70,Matt Ryan
+70,71,Austin Ekeler,Trav,,RB,31,Will play in place of gordon if gordon is out.,LAC,64.0,N,RB31,75.0,,,12,45,185,19.3,Austin,Ekeler,EkelerA.,,,,Austin EkelerA. Ekeler LAC,71,Austin Ekeler
+71,72,A.J. Green,Trav,Ankle,WR,30,,CIN,59.0,N,WR30,76.4,out,Green is expected to miss six to eight weeks while he recovers from surgery to repair torn ligaments in his left ankle.,9,43,145,20.2,A.J.,Green,GreenA.,CIN,WR,A.J. Green,A.J. GreenA. Green CIN,72,A.J. Green
+72,73,Derrius Guice,Dad,Knee,RB,32,,WAS,77.0,N,RB32,76.8,questionable,Guice sat out the entire 2018 season due to a torn ACL. He also underwent three additional surgeries to clean up an infection in the same knee. His status for Week 1 versus the Eagles is in question.,10,35,131,18.8,Derrius,Guice,GuiceD.,WAS,RB,Derrius Guice,Derrius GuiceD. Guice WAS,73,Derrius Guice
+73,74,Kenyan Drake,Kevin,Foot,RB,33,,MIA,76.0,N,RB33,77.1,questionable,"Drake is dealing with a foot injury, and it is unclear if he will play against the Ravens in Week 1.",5,17,233,20.6,Kenyan,Drake,DrakeK.,MIA,RB,Kenyan Drake,Kenyan DrakeK. Drake MIA,74,Kenyan Drake
+74,75,Tarik Cohen,Mel,,RB,34,,CHI,71.0,N,RB34,81.5,,,6,40,149,18.8,Tarik,Cohen,CohenT.,,,,Tarik CohenT. Cohen CHI,75,Tarik Cohen
+75,76,Carson Wentz,Pete,,QB,6,,PHI,73.0,N,QB6,82.5,,,10,54,161,14.7,Carson,Wentz,WentzC.,,,,Carson WentzC. Wentz PHI,77,Carson Wentz
+76,77,Jarvis Landry,Vinnie,,WR,31,Plays with Beckham now so may not get as many targets,CLE,69.0,N,WR31,82.7,,,7,34,141,14.3,Jarvis,Landry,LandryJ.,,,,Jarvis LandryJ. Landry CLE,76,Jarvis Landry
+77,78,Rashaad Penny,Big Vin,,RB,35,,SEA,96.0,N,RB35,83.4,,,11,45,197,19.8,Rashaad,Penny,PennyR.,,,,Rashaad PennyR. Penny SEA,78,Rashaad Penny
+78,79,Will Fuller,Joe,Knee,WR,32,Stay away - injuries,HOU,79.0,N,WR32,83.5,probable,Fuller V is recuperating from a torn ACL in his knee that ended his 2019 season. He is expected to return to the lineup against the Saints in Week 1.,10,45,163,14.7,Will,Fuller,FullerW.,HOU,WR,Will Fuller,Will FullerW. Fuller HOU,80,Will Fuller
+79,80,Sammy Watkins,Austin,,WR,33,,KC,85.0,N,WR33,83.8,,,12,42,151,13.3,Sammy,Watkins,WatkinsS.,,,,Sammy WatkinsS. Watkins KC,81,Sammy Watkins
+80,81,Devin Singletary,Dennis,,RB,36,,BUF,126.0,N,RB36,84.6,,,6,43,162,24.0,Devin,Singletary,SingletaryD.,,,,Devin SingletaryD. Singletary BUF,79,Devin Singletary
+81,82,Cam Newton,Bob,Foot,QB,7,,CAR,89.0,N,QB7,84.8,probable,Newton has a mid-foot sprain but is expected to be available Week 1 against the Rams.,7,37,149,13.6,Cam,Newton,NewtonC.,CAR,QB,Cam Newton,Cam NewtonC. Newton CAR,83,Cam Newton
+82,83,Curtis Samuel,Bob,,WR,34,,CAR,97.0,N,WR34,84.9,,,7,52,163,15.8,Curtis,Samuel,SamuelC.,,,,Curtis SamuelC. Samuel CAR,82,Curtis Samuel
+83,84,Royce Freeman,Steve,,RB,37,,DEN,108.0,N,RB37,85.5,,,10,39,164,19.0,Royce,Freeman,FreemanR.,,,,Royce FreemanR. Freeman DEN,84,Royce Freeman
+84,85,Jared Cook,Mel,,TE,7,On Saints now (from Oakland).,NO,75.0,N,TE7,87.7,,,9,16,143,17.7,Jared,Cook,CookJ.,,,,Jared CookJ. Cook NO,86,Jared Cook
+85,86,Russell Wilson,Kevin,,QB,8,,SEA,81.0,N,QB8,87.8,,,11,49,138,17.0,Russell,Wilson,WilsonR.,,,,Russell WilsonR. Wilson SEA,85,Russell Wilson
+86,87,Marvin Jones,Joe,,WR,35,,DET,94.0,N,WR35,87.9,,,5,60,157,14.1,Marvin,Jones,JonesM.,,,,Marvin JonesM. Jones DET,87,Marvin Jones
+87,88,Christian Kirk,Joe,,WR,36,"May be good, rookie QB + playing with Larry Fitz who's getting old",ARI,87.0,N,WR36,88.6,,,12,50,137,12.3,Christian,Kirk,KirkC.,,,,Christian KirkC. Kirk ARI,88,Christian Kirk
+88,89,Corey Davis,Dennis,,WR,37,,TEN,92.0,N,WR37,91.2,,,11,44,137,15.6,Corey,Davis,DavisC.,,,,Corey DavisC. Davis TEN,89,Corey Davis
+89,90,Jordan Howard,Steve,,RB,38,,PHI,84.0,N,RB38,91.8,,,10,53,200,24.2,Jordan,Howard,HowardJ.,,,,Jordan HowardJ. Howard PHI,90,Jordan Howard
+90,91,Matt Breida,Bob,,RB,39,,SF,104.0,N,RB39,94.1,,,4,53,223,33.4,Matt,Breida,BreidaM.,,,,Matt BreidaM. Breida SF,91,Matt Breida
+91,92,Dede Westbrook,Kevin,,WR,38,,JAC,82.0,N,WR38,94.1,,,10,41,151,17.4,Dede,Westbrook,WestbrookD.,,,,Dede WestbrookD. Westbrook JAC,92,Dede Westbrook
+92,93,Drew Brees,Dad,,QB,9,,NO,72.0,N,QB9,96.2,,,9,32,164,16.9,Drew,Brees,BreesD.,,,,Drew BreesD. Brees NO,94,Drew Brees
+93,94,Dante Pettis,Mel,,WR,39,,SF,106.0,N,WR39,96.3,,,4,49,154,18.7,Dante,Pettis,PettisD.,,,,Dante PettisD. Pettis SF,93,Dante Pettis
+94,95,Jared Goff,Vinnie,,QB,10,,LAR,80.0,N,QB10,96.4,,,9,56,230,14.7,Jared,Goff,GoffJ.,,,,Jared GoffJ. Goff LAR,95,Jared Goff
+95,96,Vance McDonald,Pete,,TE,8,,PIT,86.0,N,TE8,97.7,,,7,60,164,20.9,Vance,McDonald,McDonaldV.,,,,Vance McDonaldV. McDonald PIT,97,Vance McDonald
+96,97,Sterling Shepard,Steve,Thumb,WR,40,,NYG,93.0,N,WR40,97.8,probable,Shepard is on the mend after fracturing his left thumb. He is expected to be available against the Cowboys in Week 1.,11,63,145,13.9,Sterling,Shepard,ShepardS.,NYG,WR,Sterling Shepard,Sterling ShepardS. Shepard NYG,96,Sterling Shepard
+97,98,David Njoku,Big Vin,,TE,9,,CLE,99.0,N,TE9,99.4,,,7,56,163,20.7,David,Njoku,NjokuD.,,,,David NjokuD. Njoku CLE,98,David Njoku
+98,99,Jameis Winston,Big Vin,,QB,11,,TB,100.0,N,QB11,100.2,,,7,50,147,16.7,Jameis,Winston,WinstonJ.,,,,Jameis WinstonJ. Winston TB,99,Jameis Winston
+99,100,Kalen Ballage,Dad,,RB,40,,MIA,123.0,N,RB40,103.1,,,5,55,193,22.6,Kalen,Ballage,BallageK.,,,,Kalen BallageK. Ballage MIA,100,Kalen Ballage
+100,101,LeSean McCoy,Austin,,RB,41,"Now on KC, not head back.",KC,101.0,N,RB41,106.6,,,12,47,268,39.0,LeSean,McCoy,McCoyL.,,,,LeSean McCoyL. McCoy KC,108,LeSean McCoy
+101,102,Darrell Henderson,Dennis,,RB,42,,LAR,95.0,N,RB42,106.6,,,9,39,240,29.1,Darrell,Henderson,HendersonD.,,,,Darrell HendersonD. Henderson LAR,101,Darrell Henderson
+102,103,Courtland Sutton,Joe,,WR,41,,DEN,112.0,N,WR41,106.8,,,10,61,153,15.3,Courtland,Sutton,SuttonC.,,,,Courtland SuttonC. Sutton DEN,102,Courtland Sutton
+103,104,Kyler Murray,Austin,,QB,12,,ARI,110.0,N,QB12,107.5,,,12,56,224,24.2,Kyler,Murray,MurrayK.,,,,Kyler MurrayK. Murray ARI,104,Kyler Murray
+104,105,Lamar Jackson,Dad,,QB,13,,BAL,105.0,N,QB13,108.2,,,8,55,215,21.4,Lamar,Jackson,JacksonL.,,,,Lamar JacksonL. Jackson BAL,103,Lamar Jackson
+105,106,Larry Fitzgerald,Big Vin,,WR,42,,ARI,102.0,N,WR42,109.4,,,12,72,163,16.0,Larry,Fitzgerald,FitzgeraldL.,,,,Larry FitzgeraldL. Fitzgerald ARI,105,Larry Fitzgerald
+106,107,Peyton Barber,Joe,,RB,43,,TB,109.0,N,RB43,109.9,,,7,55,210,26.4,Peyton,Barber,BarberP.,,,,Peyton BarberP. Barber TB,106,Peyton Barber
+107,108,Ben Roethlisberger,Steve,,QB,14,,PIT,98.0,N,QB14,111.0,,,7,63,168,19.6,Ben,Roethlisberger,RoethlisbergerB.,,,,Ben RoethlisbergerB. Roethlisberger PIT,107,Ben Roethlisberger
+108,109,Geronimo Allison,Pete,,WR,43,,GB,121.0,N,WR43,113.3,,,11,71,159,18.0,Geronimo,Allison,AllisonG.,,,,Geronimo AllisonG. Allison GB,109,Geronimo Allison
+109,110,Dak Prescott,Bob,,QB,15,,DAL,122.0,N,QB15,113.3,,,8,59,225,19.6,Dak,Prescott,PrescottD.,,,,Dak PrescottD. Prescott DAL,110,Dak Prescott
+110,111,Marquez Valdes-Scantling,Trav,,WR,44,,GB,113.0,N,WR44,116.2,,,11,67,218,20.2,Marquez,Valdes-Scantling,Valdes-ScantlingM.,,,,Marquez Valdes-ScantlingM. Valdes-Scantling GB,111,Marquez Valdes-Scantling
+111,112,DeSean Jackson,Austin,,WR,45,,PHI,127.0,N,WR45,116.5,,,10,71,191,16.6,DeSean,Jackson,JacksonD.,,,,DeSean JacksonD. Jackson PHI,112,DeSean Jackson
+112,113,Adrian Peterson,Joe,,RB,44,,WAS,120.0,N,RB44,114.7,,,10,57,193,25.8,Adrian,Peterson,PetersonA.,,,,Adrian PetersonA. Peterson WAS,113,Adrian Peterson
+113,114,Emmanuel Sanders,Dad,Achilles,WR,46,,DEN,90.0,N,WR46,119.2,probable,Sanders is on the mend from a torn Achilles and offseason ankle surgery. He is likely to make his season debut Week 1 against the Raiders.,10,53,233,28.5,Emmanuel,Sanders,SandersE.,DEN,WR,Emmanuel Sanders,Emmanuel SandersE. Sanders DEN,114,Emmanuel Sanders
+114,115,Michael Gallup,Kevin,,WR,47,,DAL,138.0,N,WR47,120.1,,,8,72,231,21.9,Michael,Gallup,GallupM.,,,,Michael GallupM. Gallup DAL,115,Michael Gallup
+115,116,Philip Rivers,FA,,QB,16,,LAC,115.0,Y,QB16,122.1,,,12,70,174,17.6,Philip,Rivers,RiversP.,,,,Philip RiversP. Rivers LAC,116,Philip Rivers
+116,117,Anthony Miller,Trav,Ankle,WR,48,,CHI,142.0,N,WR48,119.9,questionable,"Miller is dealing with a sprained ankle, and it is unclear if he will be available for the home opener against the Packers.",6,75,227,20.3,Anthony,Miller,MillerA.,CHI,WR,Anthony Miller,Anthony MillerA. Miller CHI,117,Anthony Miller
+117,118,Donte Moncrief,FA,,WR,49,,PIT,135.0,Y,WR49,125.5,,,7,50,223,26.0,Donte,Moncrief,MoncriefD.,,,,Donte MoncriefD. Moncrief PIT,118,Donte Moncrief
+118,119,Austin Hooper,Dennis,,TE,10,,ATL,129.0,N,TE10,126.0,,,9,60,211,24.2,Austin,Hooper,HooperA.,,,,Austin HooperA. Hooper ATL,119,Austin Hooper
+119,120,Carlos Hyde,Dad,,RB,45,,HOU,161.0,N,RB45,127.0,,,10,75,169,26.1,Carlos,Hyde,HydeC.,,,,Carlos HydeC. Hyde HOU,120,Carlos Hyde
+120,121,John Brown,Dennis,,WR,50,,BUF,146.0,N,WR50,127.8,,,6,58,196,19.8,John,Brown,BrownJ.,,,,John BrownJ. Brown BUF,121,John Brown
+121,122,Tom Brady,Mel,,QB,17,,NE,103.0,N,QB17,129.9,,,10,80,170,17.8,Tom,Brady,BradyT.,,,,Tom BradyT. Brady NE,122,Tom Brady
+122,123,Dion Lewis,Vinnie,,RB,46,,TEN,130.0,N,RB46,130.4,,,11,69,263,26.5,Dion,Lewis,LewisD.,,,,Dion LewisD. Lewis TEN,123,Dion Lewis
+123,124,Darwin Thompson,FA,,RB,47,,KC,116.0,Y,RB47,131.8,,,12,76,239,30.5,Darwin,Thompson,ThompsonD.,,,,Darwin ThompsonD. Thompson KC,139,Darwin Thompson
+124,125,Mitch Trubisky,Vinnie,,QB,18,,CHI,143.0,N,QB18,132.2,,,6,65,215,24.7,Mitch,Trubisky,TrubiskyM.,,,,Mitch TrubiskyM. Trubisky CHI,124,Mitch Trubisky
+125,126,Delanie Walker,Trav,,TE,11,,TEN,114.0,N,TE11,134.1,,,11,77,302,30.9,Delanie,Walker,WalkerD.,,,,Delanie WalkerD. Walker TEN,125,Delanie Walker
+126,127,Kirk Cousins,FA,,QB,19,,MIN,132.0,Y,QB19,133.0,,,12,83,195,22.0,Kirk,Cousins,CousinsK.,,,,Kirk CousinsK. Cousins MIN,126,Kirk Cousins
+127,128,Justice Hill,FA,,RB,48,,BAL,156.0,Y,RB48,138.6,,,8,58,257,41.8,Justice,Hill,HillJ.,,,,Justice HillJ. Hill BAL,127,Justice Hill
+128,129,Justin Jackson,FA,,RB,49,,LAC,148.0,Y,RB49,132.1,,,12,70,309,40.4,Justin,Jackson,JacksonJ.,,,,Justin JacksonJ. Jackson LAC,128,Justin Jackson
+129,130,Tyrell Williams,Mel,,WR,51,,OAK,134.0,N,WR51,135.8,,,6,72,243,29.2,Tyrell,Williams,WilliamsT.,,,,Tyrell WilliamsT. Williams OAK,129,Tyrell Williams
+130,131,Ronald IIR.,FA,,RB,50,,Jones TB,141.0,Y,RB50,128.7,,,7,70,384,40.9,Ronald,IIR.,Jones,,,,Ronald Jones IIR. Jones TB,130,Ronald IIR.
+131,132,Josh Allen,FA,,QB,20,,BUF,159.0,Y,QB20,138.4,,,6,81,243,25.9,Josh,Allen,AllenJ.,,,,Josh AllenJ. Allen BUF,131,Josh Allen
+132,133,Trey Burton,Kevin,Hernia,TE,12,,CHI,147.0,N,TE12,142.3,questionable,"Burton had offseason sports hernia surgery, and it is unclear if he will play in the home opener against the Packers.",6,79,235,29.8,Trey,Burton,BurtonT.,CHI,TE,Trey Burton,Trey BurtonT. Burton CHI,132,Trey Burton
+133,134,James Washington,Pete,,WR,52,,PIT,119.0,N,WR52,142.5,,,7,91,266,31.6,James,Washington,WashingtonJ.,,,,James WashingtonJ. Washington PIT,133,James Washington
+134,135,Jamison Crowder,Bob,,WR,53,,NYJ,168.0,N,WR53,140.3,,,4,94,233,26.1,Jamison,Crowder,CrowderJ.,,,,Jamison CrowderJ. Crowder NYJ,134,Jamison Crowder
+135,136,Mark Andrews,Austin,,TE,13,,BAL,140.0,N,TE13,138.5,,,8,89,274,35.8,Mark,Andrews,AndrewsM.,,,,Mark AndrewsM. Andrews BAL,136,Mark Andrews
+136,137,Keke Coutee,Joe,Ankle,WR,54,,HOU,157.0,N,WR54,137.4,questionable,"Coutee suffered a right ankle injury, and it is unknown if he will be ready for the season opener against the Saints.",10,85,203,21.9,Keke,Coutee,CouteeK.,HOU,WR,Keke Coutee,Keke CouteeK. Coutee HOU,135,Keke Coutee
+137,138,Jaylen Samuels,Kevin,,RB,51,,PIT,133.0,N,RB51,143.9,,,7,71,284,37.2,Jaylen,Samuels,SamuelsJ.,,,,Jaylen SamuelsJ. Samuels PIT,137,Jaylen Samuels
+138,139,Golden Tate,Steve,Suspension,WR,55,Suspended for 5 games,NYG,144.0,N,WR55,144.3,out,Tate has been issued a four-game suspension for violating the league's policy on Performance Enhancing Substances. He will be permitted to return against the Vikings in Week 5.,11,85,238,27.8,Golden,Tate,TateG.,NYG,WR,Golden Tate,Golden TateG. Tate NYG,138,Golden Tate
+139,140,Damien Harris,FA,,RB,52,,NE,155.0,Y,RB52,149.3,,,10,84,379,45.8,Damien,Harris,HarrisD.,,,,Damien HarrisD. Harris NE,140,Damien Harris
+140,141,Eric Ebron,FA,,TE,14,New QB now on IND,IND,91.0,Y,TE14,156.9,,,6,121,236,30.6,Eric,Ebron,EbronE.,,,,Eric EbronE. Ebron IND,141,Eric Ebron
+141,142,Jimmy Garoppolo,FA,Knee,QB,21,,SF,150.0,Y,QB21,149.8,probable,Garoppolo is expected to be ready to play in the season opener against the Buccaneers after recovering from a torn left ACL.,4,85,206,23.4,Jimmy,Garoppolo,GaroppoloJ.,SFO,QB,Jimmy Garoppolo,Jimmy GaroppoloJ. Garoppolo SF,142,Jimmy Garoppolo
+142,143,Kenny Stills,FA,,WR,56,,MIA,191.0,Y,WR56,147.9,,,5,66,242,29.0,Kenny,Stills,StillsK.,,,,Kenny StillsK. Stills MIA,143,Kenny Stills
+143,144,Tony Pollard,Pete,,RB,53,,DAL,118.0,N,RB53,138.4,,,8,68,386,49.2,Tony,Pollard,PollardT.,,,,Tony PollardT. Pollard DAL,144,Tony Pollard
+144,145,D.K. Metcalf,FA,Knee,WR,57,,SEA,145.0,Y,WR57,155.7,doubtful,"Metcalf underwent minor knee surgery, leaving his status for Week 1 against the Bengals in doubt.",11,77,276,33.1,D.K.,Metcalf,MetcalfD.,SEA,WR,D.K. Metcalf,D.K. MetcalfD. Metcalf SEA,145,D.K. Metcalf
+145,146,C.J. Anderson,FA,,RB,54,,DET,178.0,Y,RB54,151.4,,,5,79,271,32.6,C.J.,Anderson,AndersonC.,,,,C.J. AndersonC. Anderson DET,146,C.J. Anderson
+146,147,Ito Smith,FA,,RB,55,,ATL,166.0,Y,RB55,152.5,,,9,84,396,47.2,Ito,Smith,SmithI.,,,,Ito SmithI. Smith ATL,148,Ito Smith
+147,148,Marquise Goodwin,Trav,,WR,58,,SF,181.0,N,WR58,156.4,,,4,97,267,36.8,Marquise,Goodwin,GoodwinM.,,,,Marquise GoodwinM. Goodwin SF,147,Marquise Goodwin
+148,149,Sam Darnold,FA,,QB,22,,NYJ,177.0,Y,QB22,159.5,,,4,88,246,27.0,Sam,Darnold,DarnoldS.,,,,Sam DarnoldS. Darnold NYJ,149,Sam Darnold
+149,150,Greg Olsen,FA,,TE,15,,CAR,149.0,Y,TE15,167.1,,,7,76,325,42.3,Greg,Olsen,OlsenG.,,,,Greg OlsenG. Olsen CAR,150,Greg Olsen
+150,151,Tre'Quan Smith,FA,,WR,59,,NO,186.0,Y,WR59,161.0,,,9,86,267,24.6,Tre'Quan,Smith,SmithT.,,,,Tre'Quan SmithT. Smith NO,151,Tre'Quan Smith
+151,152,Alexander Mattison,Steve,,RB,56,,MIN,153.0,N,RB56,159.1,,,12,79,311,39.6,Alexander,Mattison,MattisonA.,,,,Alexander MattisonA. Mattison MIN,153,Alexander Mattison
+152,153,Kareem Hunt,Big Vin,,RB,57,,CLE,107.0,N,RB57,162.9,,,7,70,244,42.2,Kareem,Hunt,HuntK.,,,,Kareem HuntK. Hunt CLE,152,Kareem Hunt
+153,154,Jacoby Brissett,FA,,QB,23,,IND,253.0,Y,QB23,183.8,,,6,107,247,26.9,Jacoby,Brissett,BrissettJ.,,,,Jacoby BrissettJ. Brissett IND,155,Jacoby Brissett
+154,155,Mohamed Sanu,Vinnie,,WR,60,,ATL,171.0,N,WR60,171.5,,,9,108,264,32.0,Mohamed,Sanu,SanuM.,,,,Mohamed SanuM. Sanu ATL,156,Mohamed Sanu
+155,156,Albert Wilson,FA,Hip,WR,61,,MIA,224.0,Y,WR61,168.3,probable,"Wilson is recovering from a hip injury, but he is likely to be available for the season opener against the Ravens.",5,95,292,38.3,Albert,Wilson,WilsonA.,MIA,WR,Albert Wilson,Albert WilsonA. Wilson MIA,158,Albert Wilson
+156,157,Jimmy Graham,FA,Finger,TE,16,,GB,162.0,Y,TE16,184.1,questionable,"Graham is tending to a finger injury, and it is uncertain if he will participate on Thursday against the Bears.",11,60,297,46.2,Jimmy,Graham,GrahamJ.,GNB,TE,Jimmy Graham,Jimmy GrahamJ. Graham GB,154,Jimmy Graham
+157,158,DaeSean Hamilton,FA,Hamstring,WR,62,,DEN,199.0,Y,WR62,165.9,questionable,"Hamilton is dealing with a hamstring injury, leaving his status against the Raiders in Week 1 in question.",10,107,273,28.8,DaeSean,Hamilton,HamiltonD.,DEN,WR,DaeSean Hamilton,DaeSean HamiltonD. Hamilton DEN,157,DaeSean Hamilton
+158,159,Kyle Rudolph,FA,,TE,17,,MIN,176.0,Y,TE17,178.6,,,12,112,274,35.9,Kyle,Rudolph,RudolphK.,,,,Kyle RudolphK. Rudolph MIN,159,Kyle Rudolph
+159,160,Matthew Stafford,FA,,QB,24,,DET,175.0,Y,QB24,173.9,,,5,105,267,26.3,Matthew,Stafford,StaffordM.,,,,Matthew StaffordM. Stafford DET,160,Matthew Stafford
+160,161,Chris Thompson,FA,,RB,58,,WAS,190.0,Y,RB58,174.2,,,10,115,310,38.7,Chris,Thompson,ThompsonC.,,,,Chris ThompsonC. Thompson WAS,161,Chris Thompson
+161,162,Nyheim Hines,Vinnie,,RB,59,,IND,183.0,N,RB59,192.0,,,6,161,284,27.1,Nyheim,Hines,HinesN.,,,,Nyheim HinesN. Hines IND,162,Nyheim Hines
+162,163,Derek Carr,FA,,QB,25,,OAK,169.0,Y,QB25,179.8,,,6,112,264,26.1,Derek,Carr,CarrD.,,,,Derek CarrD. Carr OAK,163,Derek Carr
+163,164,Jordan Reed,FA,Concussion,TE,18,,WAS,158.0,Y,TE18,186.2,probable,"Reed is dealing with a concussion, but it is likely that he will pass the league-mandated protocol in time for the season opener against the Eagles.",10,80,297,42.4,Jordan,Reed,ReedJ.,WAS,TE,Jordan Reed,Jordan ReedJ. Reed WAS,165,Jordan Reed
+164,165,Mike Davis,Pete,,RB,60,,CHI,232.0,N,RB60,169.8,,,6,71,280,31.3,Mike,Davis,DavisM.,,,,Mike DavisM. Davis CHI,166,Mike Davis
+165,165,Mike Davis,Pete,,RB,60,,CHI,232.0,N,RB60,169.8,,,6,71,280,31.3,Mike,Davis,DavisM.,,,,Mike DavisM. Davis CHI,430,Mike Davis
+166,166,N'Keal Harry,Big Vin,Hamstring,WR,63,,NE,152.0,N,WR63,177.3,questionable,"Harry hurt his hamstring, ankle and toe, and it is uncertain if it will deter him from playing Week 1 against the Steelers.",10,63,276,48.1,N'Keal,Harry,HarryN.,NWE,WR,N'Keal Harry,N'Keal HarryN. Harry NE,164,N'Keal Harry
+167,167,Devante Parker,FA,,WR,64,,MIA,226.0,Y,WR64,182.2,,,5,102,277,36.5,Devante,Parker,ParkerD.,,,,Devante ParkerD. Parker MIA,167,Devante Parker
+168,168,Devin Funchess,FA,,WR,65,,IND,195.0,Y,WR65,189.5,,,6,163,289,28.6,Devin,Funchess,FunchessD.,,,,Devin FunchessD. Funchess IND,168,Devin Funchess
+169,169,Adam Humphries,FA,,WR,66,,TEN,214.0,Y,WR66,183.6,,,11,97,268,33.0,Adam,Humphries,HumphriesA.,,,,Adam HumphriesA. Humphries TEN,169,Adam Humphries
+170,170,Deebo Samuel,Vinnie,,WR,67,,SF,174.0,N,WR67,177.9,,,4,94,277,39.9,Deebo,Samuel,SamuelD.,,,,Deebo SamuelD. Samuel SF,170,Deebo Samuel
+171,171,Chris IVC.,FA,,TE,19,,Herndon NYJ,211.0,Y,TE19,187.3,,,4,107,291,47.2,Chris,IVC.,Herndon,,,,Chris Herndon IVC. Herndon NYJ,171,Chris IVC.
+172,172,Chicago DST,Mel,,DS,T1,,,88.0,N,DST1,160.4,,,6,95,268,24.8,Chicago,DST,(CHI)CHI,,,,Chicago (CHI)CHI DST,172,Chicago DST
+173,173,Giovani Bernard,FA,,RB,61,,CIN,221.0,Y,RB61,181.2,,,9,114,337,39.1,Giovani,Bernard,BernardG.,,,,Giovani BernardG. Bernard CIN,173,Giovani Bernard
+174,174,Malcolm Brown,FA,,RB,62,,LAR,203.0,Y,RB62,173.2,,,9,101,367,43.6,Malcolm,Brown,BrownM.,,,,Malcolm BrownM. Brown LAR,174,Malcolm Brown
+175,175,Los (LAR)LAR,Austin,,DS,T2,,DST,111.0,N,DST2,168.7,,,9,105,270,19.3,Los,(LAR)LAR,Angeles,,,,Los Angeles (LAR)LAR DST,176,Los (LAR)LAR
+176,176,T.J. Hockenson,FA,,TE,20,,DET,137.0,Y,TE20,192.8,,,5,79,278,49.2,T.J.,Hockenson,HockensonT.,,,,T.J. HockensonT. Hockenson DET,175,T.J. Hockenson
+177,177,Jamaal Williams,FA,Hamstring,RB,63,,GB,198.0,Y,RB63,172.7,questionable,"Williams is dealing with a hamstring injury, leaving his status for the season opener versus the Bears in question.",11,94,276,36.5,Jamaal,Williams,WilliamsJ.,GNB,RB,Jamaal Williams,Jamaal WilliamsJ. Williams GB,178,Jamaal Williams
+178,178,Jacksonville DST,Bob,,DS,T3,,,128.0,N,DST3,169.8,,,10,127,269,23.3,Jacksonville,DST,(JAC)JAC,,,,Jacksonville (JAC)JAC DST,177,Jacksonville DST
+179,179,Andy Dalton,FA,,QB,26,,CIN,263.0,Y,QB26,193.1,,,9,88,292,23.6,Andy,Dalton,DaltonA.,,,,Andy DaltonA. Dalton CIN,179,Andy Dalton
+180,180,Baltimore DST,Kevin,,DS,T4,,,131.0,N,DST4,173.7,,,8,112,290,26.0,Baltimore,DST,(BAL)BAL,,,,Baltimore (BAL)BAL DST,180,Baltimore DST
+181,181,Frank Gore,FA,,RB,64,,BUF,268.0,Y,RB64,178.4,,,6,75,294,46.7,Frank,Gore,GoreF.,,,,Frank GoreF. Gore BUF,182,Frank Gore
+182,182,Quincy Enunwa,FA,Groin,WR,68,,NYJ,265.0,Y,WR68,190.7,probable,"Enunwa is tending to a groin injury, but it is expected that he will be available for Week 1 against the Bills.",4,114,282,30.6,Quincy,Enunwa,EnunwaQ.,NYJ,WR,Quincy Enunwa,Quincy EnunwaQ. Enunwa NYJ,181,Quincy Enunwa
+183,183,Los (LAC)LAC,Dad,,DS,T5,,DST,139.0,N,DST5,175.6,,,12,133,379,30.4,Los,(LAC)LAC,Angeles,,,,Los Angeles (LAC)LAC DST,184,Los (LAC)LAC
+184,184,Dallas Goedert,FA,Calf,TE,21,,PHI,219.0,Y,TE21,205.4,probable,Goedert sustained a calf injury but is projected to face the Redskins in Week 1.,10,100,291,42.1,Dallas,Goedert,GoedertD.,PHI,TE,Dallas Goedert,Dallas GoedertD. Goedert PHI,183,Dallas Goedert
+185,185,Minnesota DST,Dad,,DS,T6,,,124.0,N,DST6,173.1,,,12,138,272,20.3,Minnesota,DST,(MIN)MIN,,,,Minnesota (MIN)MIN DST,185,Minnesota DST
+186,186,Marquise Brown,Dennis,,WR,69,,BAL,184.0,N,WR69,195.9,,,8,72,292,44.2,Marquise,Brown,BrownM.,,,,Marquise BrownM. Brown BAL,186,Marquise Brown
+187,187,Chase Edmonds,FA,,RB,65,,ARI,238.0,Y,RB65,194.0,,,12,98,383,46.8,Chase,Edmonds,EdmondsC.,,,,Chase EdmondsC. Edmonds ARI,187,Chase Edmonds
+188,188,Houston DST,FA,,DS,T7,,,164.0,Y,DST7,180.4,,,10,142,285,23.1,Houston,DST,(HOU)HOU,,,,Houston (HOU)HOU DST,188,Houston DST
+189,189,Cleveland DST,FA,,DS,T8,,,170.0,Y,DST8,179.2,,,7,133,276,21.0,Cleveland,DST,(CLE)CLE,,,,Cleveland (CLE)CLE DST,189,Cleveland DST
+190,190,Greg Zuerlein,Mel,,K,,,LAR,117.0,N,K1,179.4,,,9,120,278,18.8,Greg,Zuerlein,ZuerleinG.,,,,Greg ZuerleinG. Zuerlein LAR,190,Greg Zuerlein
+191,191,Zay Jones,FA,,WR,70,,BUF,204.0,Y,WR70,199.7,,,6,112,296,39.6,Zay,Jones,JonesZ.,,,,Zay JonesZ. Jones BUF,191,Zay Jones
+192,192,Nick Foles,FA,,QB,27,,JAC,201.0,Y,QB27,203.7,,,10,104,330,30.5,Nick,Foles,FolesN.,,,,Nick FolesN. Foles JAC,192,Nick Foles
+193,193,Justin Tucker,Bob,,K,,,BAL,125.0,N,K2,183.8,,,8,136,281,20.0,Justin,Tucker,TuckerJ.,,,,Justin TuckerJ. Tucker BAL,193,Justin Tucker
+194,194,Harrison Butker,Kevin,,K,,,KC,136.0,N,K3,185.0,,,12,111,281,17.6,Harrison,Butker,ButkerH.,,,,Harrison ButkerH. Butker KC,194,Harrison Butker
+195,195,New (NO)NO,Pete,,DS,T9,,DST,180.0,N,DST9,183.7,,,9,143,282,22.0,New,(NO)NO,Orleans,,,,New Orleans (NO)NO DST,195,New (NO)NO
+196,196,Jalen Richard,Bob,,RB,66,,OAK,202.0,N,RB66,202.5,,,6,108,339,46.6,Jalen,Richard,RichardJ.,,,,Jalen RichardJ. Richard OAK,200,Jalen Richard
+197,197,Stephen Gostkowski,Steve,,K,,,NE,151.0,N,K4,189.0,,,10,151,282,21.6,Stephen,Gostkowski,GostkowskiS.,,,,Stephen GostkowskiS. Gostkowski NE,197,Stephen Gostkowski
+198,198,Mecole Hardman,Steve,,WR,71,,KC,163.0,N,WR71,189.4,,,12,110,313,42.8,Mecole,Hardman,HardmanM.,,,,Mecole HardmanM. Hardman KC,196,Mecole Hardman
+199,199,Wil Lutz,Big Vin,,K,,,NO,154.0,N,K5,190.9,,,9,157,283,19.9,Wil,Lutz,LutzW.,,,,Wil LutzW. Lutz NO,199,Wil Lutz
+200,200,Marcus Mariota,FA,,QB,28,,TEN,235.0,Y,QB28,211.3,,,11,94,295,30.1,Marcus,Mariota,MariotaM.,,,,Marcus MariotaM. Mariota TEN,198,Marcus Mariota
+201,201,Noah Fant,FA,,TE,22,,DEN,193.0,Y,TE22,220.0,,,10,87,326,45.5,Noah,Fant,FantN.,,,,Noah FantN. Fant DEN,202,Noah Fant
+202,202,New (NE)NE,Big Vin,,DS,T10,,DST,165.0,N,DST10,192.2,,,10,152,289,23.0,New,(NE)NE,England,,,,New England (NE)NE DST,203,New (NE)NE
+203,203,Robert Foster,FA,Toe,WR,72,,BUF,250.0,Y,WR72,185.5,questionable,"Foster is slowed by a toe injury, leaving his status unclear for Week 1 against the Jets.",6,77,300,49.2,Robert,Foster,FosterR.,BUF,WR,Robert Foster,Robert FosterR. Foster BUF,201,Robert Foster
+204,204,Denver DST,FA,,DS,T11,,,160.0,Y,DST11,185.5,,,10,141,273,21.4,Denver,DST,(DEN)DEN,,,,Denver (DEN)DEN DST,204,Denver DST
+205,205,Jack Doyle,Dad,Kidney,TE,23,,IND,229.0,N,TE23,231.0,probable,Doyle is recovering from kidney surgery and is also dealing with a hip injury. He is expected to play against the Chargers in Week 1.,6,195,297,30.0,Jack,Doyle,DoyleJ.,IND,TE,Jack Doyle,Jack DoyleJ. Doyle IND,205,Jack Doyle
+206,206,Gus Edwards,FA,,RB,67,,BAL,231.0,Y,RB67,184.8,,,8,97,288,37.3,Gus,Edwards,EdwardsG.,,,,Gus EdwardsG. Edwards BAL,206,Gus Edwards
+207,207,Trey Quinn,FA,,WR,73,,WAS,257.0,Y,WR73,210.0,,,10,118,294,42.4,Trey,Quinn,QuinnT.,,,,Trey QuinnT. Quinn WAS,207,Trey Quinn
+208,208,Ted Ginn,Steve,,WR,74,,NO,246.0,N,WR74,208.8,,,9,134,294,38.0,Ted,Ginn,GinnT.,,,,Ted GinnT. Ginn NO,208,Ted Ginn
+209,209,Mason Crosby,Trav,,K,,,GB,188.0,N,K6,199.3,,,11,159,296,23.2,Mason,Crosby,CrosbyM.,,,,Mason CrosbyM. Crosby GB,210,Mason Crosby
+210,210,Parris Campbell,FA,Hamstring,WR,75,,IND,217.0,Y,WR75,223.0,questionable,"Campbell is tending to a hamstring injury, leaving his availability for Week 1 against the Chargers hazy.",6,191,294,25.7,Parris,Campbell,CampbellP.,IND,WR,Parris Campbell,Parris CampbellP. Campbell IND,209,Parris Campbell
+211,211,Buffalo DST,FA,,DS,T12,,,173.0,Y,DST12,192.9,,,6,151,280,24.5,Buffalo,DST,(BUF)BUF,,,,Buffalo (BUF)BUF DST,211,Buffalo DST
+212,212,Ka'imi Fairbairn,FA,,K,,,HOU,167.0,Y,K7,194.2,,,10,156,291,24.0,Ka'imi,Fairbairn,FairbairnK.,,,,Ka'imi FairbairnK. Fairbairn HOU,212,Ka'imi Fairbairn
+213,213,Jake Elliott,FA,,K,,,PHI,185.0,Y,K8,200.3,,,10,160,290,22.8,Jake,Elliott,ElliottJ.,,,,Jake ElliottJ. Elliott PHI,213,Jake Elliott
+214,214,Brett Maher,FA,,K,,,DAL,196.0,Y,K9,205.0,,,8,161,297,26.8,Brett,Maher,MaherB.,,,,Brett MaherB. Maher DAL,214,Brett Maher
+215,215,Ty Montgomery,Mel,,RB,68,,NYJ,192.0,N,RB68,192.6,,,4,106,399,50.6,Ty,Montgomery,MontgomeryT.,,,,Ty MontgomeryT. Montgomery NYJ,216,Ty Montgomery
+216,216,Dallas DST,FA,,DS,T13,,,172.0,Y,DST13,196.6,,,8,131,286,21.3,Dallas,DST,(DAL)DAL,,,,Dallas (DAL)DAL DST,215,Dallas DST
+217,217,Philadelphia DST,Vinnie,,DS,T14,,,189.0,N,DST14,208.2,,,10,121,286,24.5,Philadelphia,DST,(PHI)PHI,,,,Philadelphia (PHI)PHI DST,217,Philadelphia DST
+218,218,Michael Badgley,FA,,K,0,,LAC,187.0,Y,K10,210.6,,,12,164,299,28.8,Michael,Badgley,BadgleyM.,,,,Michael BadgleyM. Badgley LAC,218,Michael Badgley
+219,219,Robbie Gould,FA,,K,1,,SF,179.0,Y,K11,208.6,,,4,163,295,29.2,Robbie,Gould,GouldR.,,,,Robbie GouldR. Gould SF,219,Robbie Gould
+220,220,Taylor Gabriel,FA,,WR,76,,CHI,316.0,Y,WR76,217.5,,,6,138,296,32.2,Taylor,Gabriel,GabrielT.,,,,Taylor GabrielT. Gabriel CHI,220,Taylor Gabriel
+221,221,A.J. Brown,FA,,WR,77,,TEN,227.0,Y,WR77,219.5,,,11,96,296,37.1,A.J.,Brown,BrownA.,,,,A.J. BrownA. Brown TEN,221,A.J. Brown
+222,222,Matt Prater,FA,,K,2,,DET,206.0,Y,K12,210.3,,,5,162,305,29.0,Matt,Prater,PraterM.,,,,Matt PraterM. Prater DET,222,Matt Prater
+223,223,Darren Waller,FA,,TE,24,,OAK,207.0,Y,TE24,192.8,,,6,102,306,45.9,Darren,Waller,WallerD.,,,,Darren WallerD. Waller OAK,223,Darren Waller
+224,224,Joe Flacco,FA,,QB,29,,DEN,258.0,Y,QB29,228.7,,,10,139,331,27.1,Joe,Flacco,FlaccoJ.,,,,Joe FlaccoJ. Flacco DEN,224,Joe Flacco
+225,225,Pittsburgh DST,FA,,DS,T15,,,182.0,Y,DST15,225.5,,,7,168,288,26.8,Pittsburgh,DST,(PIT)PIT,,,,Pittsburgh (PIT)PIT DST,226,Pittsburgh DST
+226,226,Marqise Lee,Austin,,WR,78,,JAC,205.0,N,WR78,218.8,,,10,125,296,36.2,Marqise,Lee,LeeM.,,,,Marqise LeeM. Lee JAC,225,Marqise Lee
+227,227,Randall Cobb,FA,,WR,79,,DAL,234.0,Y,WR79,224.4,,,8,134,293,29.5,Randall,Cobb,CobbR.,,,,Randall CobbR. Cobb DAL,227,Randall Cobb
+228,228,Rex Burkhead,FA,,RB,69,,NE,286.0,Y,RB69,211.6,,,10,79,328,35.5,Rex,Burkhead,BurkheadR.,,,,Rex BurkheadR. Burkhead NE,228,Rex Burkhead
+229,229,Tyler Eifert,FA,Ankle,TE,25,,CIN,251.0,Y,TE25,222.8,questionable,"Eifert is recovering from surgery to repair a broken right ankle, and it is unknown if he will suit up against the Seahawks in Week 1.",9,127,315,43.1,Tyler,Eifert,EifertT.,CIN,TE,Tyler Eifert,Tyler EifertT. Eifert CIN,230,Tyler Eifert
+230,230,Andy Isabella,FA,,WR,80,,ARI,256.0,Y,WR80,222.9,,,12,127,300,36.4,Andy,Isabella,IsabellaA.,,,,Andy IsabellaA. Isabella ARI,229,Andy Isabella
+231,231,David Moore,FA,Arm,WR,81,,SEA,301.0,Y,WR81,212.8,out,Moore sustained a non-displaced fracture in his upper arm and is without a definitive timetable for return.,11,120,271,33.0,David,Moore,MooreD.,SEA,WR,David Moore,David MooreD. Moore SEA,231,David Moore
+232,232,Ryquell Armstead,FA,Concussion,RB,70,,JAC,259.0,Y,RB70,218.3,questionable,"Armstead is experiencing concussion-like symptoms, and it is unknown if he will participate in the season opener against the Chiefs.",10,136,395,40.7,Ryquell,Armstead,ArmsteadR.,JAX,RB,Ryquell Armstead,Ryquell ArmsteadR. Armstead JAC,232,Ryquell Armstead
+233,233,Nelson Agholor,FA,,WR,82,,PHI,197.0,Y,WR82,228.3,,,10,121,292,30.5,Nelson,Agholor,AgholorN.,,,,Nelson AgholorN. Agholor PHI,233,Nelson Agholor
+234,234,Eli Manning,FA,,QB,30,,NYG,330.0,Y,QB30,241.5,,,11,158,332,24.9,Eli,Manning,ManningE.,,,,Eli ManningE. Manning NYG,234,Eli Manning
+235,235,Seattle DST,Dennis,,DS,T16,,,200.0,N,DST16,217.6,,,11,126,298,24.3,Seattle,DST,(SEA)SEA,,,,Seattle (SEA)SEA DST,235,Seattle DST
+236,236,Tennessee DST,FA,,DS,T17,,,218.0,Y,DST17,229.4,,,11,173,303,27.3,Tennessee,DST,(TEN)TEN,,,,Tennessee (TEN)TEN DST,236,Tennessee DST
+237,237,Paul Richardson,FA,,WR,83,,WAS,281.0,Y,WR83,224.9,,,10,127,300,37.0,Paul,Richardson,RichardsonP.,,,,Paul RichardsonP. Richardson WAS,238,Paul Richardson
+238,238,D.J. Chark,FA,,WR,84,,JAC,276.0,Y,WR84,230.1,,,10,105,296,33.8,D.J.,Chark,CharkD.,,,,D.J. CharkD. Chark JAC,237,D.J. Chark
+239,239,Ryan Fitzpatrick,FA,,QB,31,,MIA,345.0,Y,QB31,240.4,,,5,153,340,24.4,Ryan,Fitzpatrick,FitzpatrickR.,,,,Ryan FitzpatrickR. Fitzpatrick MIA,239,Ryan Fitzpatrick
+240,240,Cole Beasley,Austin,Abdominal,WR,85,,BUF,260.0,N,WR85,225.6,probable,Beasley is recuperating from surgery to repair a core muscle injury. He is expected to take the field against the Jets in Week 1.,6,129,299,44.6,Cole,Beasley,BeasleyC.,BUF,WR,Cole Beasley,Cole BeasleyC. Beasley BUF,240,Cole Beasley
+241,241,Adam Vinatieri,FA,,K,3,,IND,215.0,Y,K13,231.4,,,6,170,308,30.9,Adam,Vinatieri,VinatieriA.,,,,Adam VinatieriA. Vinatieri IND,241,Adam Vinatieri
+242,242,Rashard Higgins,FA,,WR,86,,CLE,248.0,Y,WR86,215.7,,,7,99,382,46.7,Rashard,Higgins,HigginsR.,,,,Rashard HigginsR. Higgins CLE,242,Rashard Higgins
+243,243,T.J. Yeldon,FA,,RB,71,,BUF,243.0,Y,RB71,227.1,,,6,139,406,36.6,T.J.,Yeldon,YeldonT.,,,,T.J. YeldonT. Yeldon BUF,245,T.J. Yeldon
+244,244,Jason Myers,FA,,K,4,,SEA,220.0,Y,K14,239.1,,,11,157,309,28.9,Jason,Myers,MyersJ.,,,,Jason MyersJ. Myers SEA,244,Jason Myers
+245,245,Indianapolis DST,FA,,DS,T18,,,216.0,Y,DST18,239.2,,,6,168,312,36.0,Indianapolis,DST,(IND)IND,,,,Indianapolis (IND)IND DST,243,Indianapolis DST
+246,246,John Ross,FA,Hamstring,WR,87,,CIN,311.0,Y,WR87,223.9,probable,Ross is tending to a hamstring injury but is expected to take the field against the Seahawks in Week 1.,9,144,300,39.4,John,Ross,RossJ.,CIN,WR,John Ross,John RossJ. Ross CIN,246,John Ross
+247,247,Dwayne Haskins,FA,,QB,32,,WAS,264.0,Y,QB32,250.0,,,10,154,479,39.1,Dwayne,Haskins,HaskinsD.,,,,Dwayne HaskinsD. Haskins WAS,249,Dwayne Haskins
+248,248,Mike Gesicki,FA,,TE,26,,MIA,255.0,Y,TE26,243.6,,,5,157,297,37.1,Mike,Gesicki,GesickiM.,,,,Mike GesickiM. Gesicki MIA,247,Mike Gesicki
+249,249,Kansas (KC)KC,FA,,DS,T19,,DST,194.0,Y,DST19,243.6,,,12,169,308,35.0,Kansas,(KC)KC,City,,,,Kansas City (KC)KC DST,248,Kansas (KC)KC
+250,250,Josh Rosen,FA,,QB,33,,MIA,323.0,Y,QB33,251.7,,,5,161,339,25.4,Josh,Rosen,RosenJ.,,,,Josh RosenJ. Rosen MIA,251,Josh Rosen
+251,251,Benny Jr.B.,FA,,RB,72,,Snell PIT,318.0,Y,RB72,234.9,,,7,100,425,40.2,Benny,Jr.B.,Snell,,,,Benny Snell Jr.B. Snell PIT,252,Benny Jr.B.
+252,252,J.J. Arcega-Whiteside,FA,,WR,88,,PHI,209.0,Y,WR88,229.2,,,10,121,297,41.4,J.J.,Arcega-Whiteside,Arcega-WhitesideJ.,,,,J.J. Arcega-WhitesideJ. Arcega-Whiteside PHI,250,J.J. Arcega-Whiteside
+253,253,Willie Snead,FA,,WR,89,,BAL,266.0,Y,WR89,242.8,,,8,154,296,35.4,Willie,Snead,SneadW.,,,,Willie SneadW. Snead BAL,254,Willie Snead
+254,254,Case Keenum,FA,,QB,34,,WAS,337.0,Y,QB34,254.1,,,10,143,345,28.5,Case,Keenum,KeenumC.,,,,Case KeenumC. Keenum WAS,253,Case Keenum
+255,255,Miles Boykin,FA,,WR,90,,BAL,212.0,Y,WR90,208.1,,,8,113,300,51.0,Miles,Boykin,BoykinM.,,,,Miles BoykinM. Boykin BAL,255,Miles Boykin
+256,256,Gerald Everett,FA,,TE,27,,LAR,309.0,Y,TE27,242.0,,,9,145,297,38.4,Gerald,Everett,EverettG.,,,,Gerald EverettG. Everett LAR,257,Gerald Everett
+257,257,Antonio Callaway,FA,,WR,91,,CLE,241.0,Y,WR91,230.6,,,7,129,300,37.3,Antonio,Callaway,CallawayA.,,,,Antonio CallawayA. Callaway CLE,256,Antonio Callaway
+258,258,Corey Clement,FA,Knee,RB,73,,PHI,324.0,Y,RB73,249.4,probable,Clement is battling a knee injury but is expected to be available for Week 1 against the Redskins.,10,197,405,37.8,Corey,Clement,ClementC.,PHI,RB,Corey Clement,Corey ClementC. Clement PHI,258,Corey Clement
+259,259,Danny Amendola,FA,,WR,92,,DET,271.0,Y,WR92,252.2,,,5,161,334,35.6,Danny,Amendola,AmendolaD.,,,,Danny AmendolaD. Amendola DET,260,Danny Amendola
+260,260,Carolina DST,FA,,DS,T20,,,275.0,Y,DST20,256.3,,,7,175,306,31.1,Carolina,DST,(CAR)CAR,,,,Carolina (CAR)CAR DST,259,Carolina DST
+261,261,Dexter Williams,FA,,RB,74,,GB,289.0,Y,RB74,245.2,,,11,141,427,46.0,Dexter,Williams,WilliamsD.,,,,Dexter WilliamsD. Williams GB,261,Dexter Williams
+262,262,Daniel Jones,FA,,QB,35,,NYG,297.0,Y,QB35,260.4,,,11,168,368,32.4,Daniel,Jones,JonesD.,,,,Daniel JonesD. Jones NYG,262,Daniel Jones
+263,263,Aldrick Rosas,FA,,K,5,,NYG,274.0,Y,K15,257.0,,,11,159,307,25.1,Aldrick,Rosas,RosasA.,,,,Aldrick RosasA. Rosas NYG,263,Aldrick Rosas
+264,264,Phillip Dorsett,FA,Thumb,WR,93,,NE,362.0,Y,WR93,250.9,questionable,"Dorsett is tending to a thumb injury, leaving his status against the Steelers in Week 1 hazy.",10,145,344,32.4,Phillip,Dorsett,DorsettP.,NWE,WR,Phillip Dorsett,Phillip DorsettP. Dorsett NE,265,Phillip Dorsett
+265,265,Josh Reynolds,FA,,WR,94,,LAR,296.0,Y,WR94,251.1,,,9,164,317,25.9,Josh,Reynolds,ReynoldsJ.,,,,Josh ReynoldsJ. Reynolds LAR,264,Josh Reynolds
+266,266,Chris Conley,FA,,WR,95,,JAC,327.0,Y,WR95,249.7,,,10,163,294,32.5,Chris,Conley,ConleyC.,,,,Chris ConleyC. Conley JAC,268,Chris Conley
+267,267,Theo Riddick,FA,Shoulder,RB,75,,DEN,310.0,Y,RB75,258.8,out,Riddick has a fractured shoulder and will miss six to eight weeks as a result.,10,146,451,42.4,Theo,Riddick,RiddickT.,DEN,RB,Theo Riddick,Theo RiddickT. Riddick DEN,271,Theo Riddick
+268,268,Jordan Wilkins,FA,Foot,RB,76,,IND,366.0,Y,RB76,255.3,questionable,"Wilkins is nursing a foot injury, and it is unclear if he will play against the Chargers in Week 1.",6,166,406,41.1,Jordan,Wilkins,WilkinsJ.,IND,RB,Jordan Wilkins,Jordan WilkinsJ. Wilkins IND,267,Jordan Wilkins
+269,269,KeeSean Johnson,FA,,WR,96,,ARI,304.0,Y,WR96,221.8,,,12,130,293,35.0,KeeSean,Johnson,JohnsonK.,,,,KeeSean JohnsonK. Johnson ARI,272,KeeSean Johnson
+270,270,Josh Doctson,FA,,WR,97,,FA,292.0,Y,WR97,242.9,,,,149,300,26.7,Josh,Doctson,DoctsonJ.,,,,Josh DoctsonJ. Doctson FA,266,Josh Doctson
+271,271,Alfred Blue,FA,Ankle,RB,77,,JAC,295.0,Y,RB77,248.3,I-R,Blue has been placed on the injured reserve due to an ankle injury. It is unknown if he will be ready to return when eligible during Week 8.,10,151,394,39.6,Alfred,Blue,BlueA.,JAX,RB,Alfred Blue,Alfred BlueA. Blue JAC,270,Alfred Blue
+272,272,Elijah McGuire,FA,,RB,78,,FA,277.0,Y,RB78,225.3,,,,114,384,42.6,Elijah,McGuire,McGuireE.,,,,Elijah McGuireE. McGuire FA,269,Elijah McGuire
+273,273,Keelan Cole,FA,,WR,98,,JAC,364.0,Y,WR98,257.6,,,10,104,381,32.6,Keelan,Cole,ColeK.,,,,Keelan ColeK. Cole JAC,273,Keelan Cole
+274,274,Wayne Gallman,FA,,RB,79,,NYG,356.0,Y,RB79,263.5,,,11,197,411,35.5,Wayne,Gallman,GallmanW.,,,,Wayne GallmanW. Gallman NYG,275,Wayne Gallman
+275,275,Dare Ogunbowale,FA,,RB,80,,TB,239.0,Y,RB80,199.0,,,7,105,335,51.6,Dare,Ogunbowale,OgunbowaleD.,,,,Dare OgunbowaleD. Ogunbowale TB,276,Dare Ogunbowale
+276,276,Doug Martin,FA,Shoulder,RB,81,,OAK,298.0,Y,RB81,233.7,I-R,Martin is on injured reserve with a shoulder injury.,6,160,412,40.1,Doug,Martin,MartinD.,OAK,RB,Doug Martin,Doug MartinD. Martin OAK,274,Doug Martin
+277,277,Terry McLaurin,FA,,WR,99,,WAS,382.0,Y,WR99,221.1,,,10,102,293,37.5,Terry,McLaurin,McLaurinT.,,,,Terry McLaurinT. McLaurin WAS,277,Terry McLaurin
+278,278,Brian Hill,FA,,RB,82,,ATL,285.0,Y,RB82,237.4,,,9,144,366,46.3,Brian,Hill,HillB.,,,,Brian HillB. Hill ATL,280,Brian Hill
+279,279,Dontrell Hilliard,FA,,RB,83,,CLE,282.0,Y,RB83,235.9,,,7,153,377,45.3,Dontrell,Hilliard,HilliardD.,,,,Dontrell HilliardD. Hilliard CLE,281,Dontrell Hilliard
+280,280,Jason Witten,FA,,TE,28,,DAL,213.0,Y,TE28,240.6,,,8,145,331,35.8,Jason,Witten,WittenJ.,,,,Jason WittenJ. Witten DAL,279,Jason Witten
+281,281,Josh Adams,FA,,RB,84,,FA,326.0,Y,RB84,254.4,,,,111,417,43.4,Josh,Adams,AdamsJ.,,,,Josh AdamsJ. Adams FA,278,Josh Adams
+282,282,Jalen Hurd,FA,Back,WR,100,,SF,261.0,Y,WR100,242.5,doubtful,"Hurd is tending to a back injury, and it is unlikely that he will be available against the Buccaneers in Week 1.",4,115,338,41.7,Jalen,Hurd,HurdJ.,SFO,WR,Jalen Hurd,Jalen HurdJ. Hurd SF,282,Jalen Hurd
+283,283,Breshad Perriman,FA,,WR,101,,TB,344.0,Y,WR101,250.1,,,7,133,316,36.3,Breshad,Perriman,PerrimanB.,,,,Breshad PerrimanB. Perriman TB,283,Breshad Perriman
+284,284,Devontae Booker,FA,,RB,85,,DEN,329.0,Y,RB85,272.1,,,10,208,419,39.5,Devontae,Booker,BookerD.,,,,Devontae BookerD. Booker DEN,284,Devontae Booker
+285,285,Ryan Tannehill,FA,,QB,36,,TEN,374.0,Y,QB36,276.7,,,11,212,430,32.8,Ryan,Tannehill,TannehillR.,,,,Ryan TannehillR. Tannehill TEN,288,Ryan Tannehill
+286,286,Damarea Crockett,FA,,RB,86,,FA,287.0,Y,RB86,217.7,,,,146,300,42.7,Damarea,Crockett,CrockettD.,,,,Damarea CrockettD. Crockett FA,285,Damarea Crockett
+287,287,Green (GB)GB,FA,,DS,T21,,DST,223.0,Y,DST21,250.9,,,11,170,319,38.1,Green,(GB)GB,Bay,,,,Green Bay (GB)GB DST,286,Green (GB)GB
+288,288,Bilal Powell,FA,,RB,87,,NYJ,343.0,Y,RB87,264.5,,,4,167,333,27.4,Bilal,Powell,PowellB.,,,,Bilal PowellB. Powell NYJ,291,Bilal Powell
+289,289,Qadree Ollison,FA,,RB,88,,ATL,284.0,Y,RB88,252.9,,,9,167,337,32.5,Qadree,Ollison,OllisonQ.,,,,Qadree OllisonQ. Ollison ATL,292,Qadree Ollison
+290,290,Demaryius Thomas,Austin,,WR,102,,FA,208.0,N,WR102,258.9,,,,145,364,44.1,Demaryius,Thomas,ThomasD.,,,,Demaryius ThomasD. Thomas FA,287,Demaryius Thomas
+291,291,Cameron Brate,FA,,TE,29,,TB,237.0,Y,TE29,254.5,,,7,161,304,32.9,Cameron,Brate,BrateC.,,,,Cameron BrateC. Brate TB,289,Cameron Brate
+292,292,Chris Hogan,FA,,WR,103,,CAR,336.0,Y,WR103,263.9,,,7,184,314,25.5,Chris,Hogan,HoganC.,,,,Chris HoganC. Hogan CAR,290,Chris Hogan
+293,293,Preston Williams,FA,,WR,104,,MIA,249.0,Y,WR104,220.2,,,5,99,278,37.0,Preston,Williams,WilliamsP.,,,,Preston WilliamsP. Williams MIA,296,Preston Williams
+294,294,John Kelly,FA,,RB,89,,FA,,Y,RB89,278.7,,,,211,482,48.4,John,Kelly,KellyJ.,,,,John KellyJ. Kelly FA,293,John Kelly
+295,295,Taywan Taylor,FA,,WR,105,,CLE,320.0,Y,WR105,268.2,,,7,216,314,24.9,Taywan,Taylor,TaylorT.,,,,Taywan TaylorT. Taylor CLE,294,Taywan Taylor
+296,296,Ian Thomas,FA,,TE,30,,CAR,315.0,Y,TE30,253.4,,,7,172,297,33.3,Ian,Thomas,ThomasI.,,,,Ian ThomasI. Thomas CAR,295,Ian Thomas
+297,297,Mike Weber,FA,,RB,90,,FA,242.0,Y,RB90,265.9,,,,204,340,25.7,Mike,Weber,WeberM.,,,,Mike WeberM. Weber FA,297,Mike Weber
+298,298,Cameron Artis-Payne,FA,,RB,91,,FA,352.0,Y,RB91,272.8,,,,109,415,38.1,Cameron,Artis-Payne,Artis-PayneC.,,,,Cameron Artis-PayneC. Artis-Payne FA,298,Cameron Artis-Payne
+299,299,Hunter Renfrow,FA,,WR,106,,OAK,341.0,Y,WR106,246.3,,,6,156,325,43.1,Hunter,Renfrow,RenfrowH.,,,,Hunter RenfrowH. Renfrow OAK,299,Hunter Renfrow
+300,300,Atlanta DST,FA,,DS,T22,,,267.0,Y,DST22,246.9,,,9,176,301,33.8,Atlanta,DST,(ATL)ATL,,,,Atlanta (ATL)ATL DST,300,Atlanta DST
+301,301,Chris Boswell,FA,,K,6,,PIT,230.0,Y,K16,256.4,,,7,160,302,31.7,Chris,Boswell,BoswellC.,,,,Chris BoswellC. Boswell PIT,303,Chris Boswell
+302,302,Dan Bailey,FA,,K,7,,MIN,225.0,Y,K17,253.7,,,12,184,316,32.2,Dan,Bailey,BaileyD.,,,,Dan BaileyD. Bailey MIN,301,Dan Bailey
+303,303,Myles Gaskin,FA,,RB,92,,MIA,299.0,Y,RB92,285.7,,,5,178,422,43.1,Myles,Gaskin,GaskinM.,,,,Myles GaskinM. Gaskin MIA,308,Myles Gaskin
+304,304,Giorgio Tavecchio,FA,,K,8,,FA,210.0,Y,K18,232.9,,,,186,302,38.8,Giorgio,Tavecchio,TavecchioG.,,,,Giorgio TavecchioG. Tavecchio FA,302,Giorgio Tavecchio
+305,305,Diontae Johnson,FA,,WR,107,,PIT,244.0,Y,WR107,252.1,,,7,167,343,36.7,Diontae,Johnson,JohnsonD.,,,,Diontae JohnsonD. Johnson PIT,305,Diontae Johnson
+306,306,Alfred Morris,FA,,RB,93,,DAL,280.0,Y,RB93,270.5,,,8,146,452,58.0,Alfred,Morris,MorrisA.,,,,Alfred MorrisA. Morris DAL,306,Alfred Morris
+307,307,Wendell Smallwood,FA,,RB,94,,FA,348.0,Y,RB94,273.2,,,,225,420,35.5,Wendell,Smallwood,SmallwoodW.,,,,Wendell SmallwoodW. Smallwood FA,304,Wendell Smallwood
+308,308,Will Dissly,FA,Knee,TE,31,,SEA,308.0,Y,TE31,238.5,probable,"Dissly is healing from a damaged patella tendon in his right knee, but he is likely to be active against the Bengals in Week 1.",11,174,303,29.6,Will,Dissly,DisslyW.,SEA,TE,Will Dissly,Will DisslyW. Dissly SEA,307,Will Dissly
+309,309,Trayveon Williams,FA,Foot,RB,95,,CIN,245.0,Y,RB95,281.7,questionable,"Williams suffered a left foot injury during the preseason, and it remains unclear if he will be available for Week 1 against the Seahawks.",9,180,439,37.9,Trayveon,Williams,WilliamsT.,CIN,HB,Trayveon Williams,Trayveon WilliamsT. Williams CIN,309,Trayveon Williams
+310,310,Travis Benjamin,FA,,WR,108,,LAC,319.0,Y,WR108,232.9,,,12,141,294,36.9,Travis,Benjamin,BenjaminT.,,,,Travis BenjaminT. Benjamin LAC,313,Travis Benjamin
+311,311,Rod Smith,FA,Hip,RB,96,,NYG,,Y,RB96,288.6,I-R,Smith is on the injured reserve list with a hip injury.,11,226,478,38.0,Rod,Smith,SmithR.,NYG,RB,Rod Smith,Rod SmithR. Smith NYG,310,Rod Smith
+312,312,Bruce Anderson,FA,,RB,97,,FA,303.0,Y,RB97,259.1,,,,130,354,44.1,Bruce,Anderson,AndersonB.,,,,Bruce AndersonB. Anderson FA,311,Bruce Anderson
+313,313,Spencer Ware,FA,Ankle,RB,98,,IND,338.0,Y,RB98,268.4,I-R,Ware has been placed on the PUP list with after having ankle surgery and is without a clear timetable for return.,6,200,431,42.2,Spencer,Ware,WareS.,IND,RB,Spencer Ware,Spencer WareS. Ware IND,312,Spencer Ware
+314,314,Ryan Succop,FA,,K,9,,TEN,272.0,Y,K19,260.3,,,11,182,320,28.6,Ryan,Succop,SuccopR.,,,,Ryan SuccopR. Succop TEN,314,Ryan Succop
+315,315,Michael Crabtree,FA,,WR,109,,ARI,354.0,Y,WR109,232.2,,,12,143,327,44.0,Michael,Crabtree,CrabtreeM.,,,,Michael CrabtreeM. Crabtree ARI,315,Michael Crabtree
+316,316,D'Onta Foreman,FA,,RB,99,,FA,405.0,Y,RB99,208.5,,,,101,319,46.0,D'Onta,Foreman,ForemanD.,,,,D'Onta ForemanD. Foreman FA,316,D'Onta Foreman
+317,317,Deon Cain,FA,Knee,WR,110,,IND,339.0,Y,WR110,264.4,probable,Cain is on the mend from a torn ACL he suffered during the 2018 season. He is likely to be ready for Week 1 against the Chargers.,6,194,335,38.7,Deon,Cain,CainD.,IND,WR,Deon Cain,Deon CainD. Cain IND,317,Deon Cain
+318,318,Cordarrelle Patterson,FA,,WR,111,,CHI,342.0,Y,WR111,265.7,,,6,195,346,28.8,Cordarrelle,Patterson,PattersonC.,,,,Cordarrelle PattersonC. Patterson CHI,319,Cordarrelle Patterson
+319,319,Jaron Brown,FA,,WR,112,,FA,347.0,Y,WR112,239.0,,,,151,361,56.1,Jaron,Brown,BrownJ.,,,,Jaron BrownJ. Brown FA,318,Jaron Brown
+320,320,Jakobi Meyers,FA,,WR,113,,NE,233.0,Y,WR113,235.4,,,10,105,327,42.9,Jakobi,Meyers,MeyersJ.,,,,Jakobi MeyersJ. Meyers NE,322,Jakobi Meyers
+321,321,Jake Kumerow,FA,,WR,114,,GB,254.0,Y,WR114,269.8,,,11,180,389,46.4,Jake,Kumerow,KumerowJ.,,,,Jake KumerowJ. Kumerow GB,323,Jake Kumerow
+322,322,Hayden Hurst,FA,,TE,32,,BAL,321.0,Y,TE32,263.0,,,8,216,324,27.3,Hayden,Hurst,HurstH.,,,,Hayden HurstH. Hurst BAL,320,Hayden Hurst
+323,323,Washington DST,FA,,DS,T23,,,240.0,Y,DST23,265.6,,,10,168,321,44.5,Washington,DST,(WAS)WAS,,,,Washington (WAS)WAS DST,321,Washington DST
+324,324,Darren Sproles,FA,,RB,100,,PHI,386.0,Y,RB100,268.0,,,10,208,469,54.3,Darren,Sproles,SprolesD.,,,,Darren SprolesD. Sproles PHI,327,Darren Sproles
+325,325,Demarcus Robinson,FA,,WR,115,,KC,290.0,Y,WR115,263.5,,,12,192,313,31.0,Demarcus,Robinson,RobinsonD.,,,,Demarcus RobinsonD. Robinson KC,324,Demarcus Robinson
+326,326,Jordan Scarlett,FA,,RB,101,,CAR,,Y,RB101,264.9,,,7,169,455,60.8,Jordan,Scarlett,ScarlettJ.,,,,Jordan ScarlettJ. Scarlett CAR,329,Jordan Scarlett
+327,327,Ty Johnson,FA,,RB,102,,DET,383.0,Y,RB102,258.5,,,5,162,467,63.4,Ty,Johnson,JohnsonT.,,,,Ty JohnsonT. Johnson DET,330,Ty Johnson
+328,328,Brandon McManus,FA,,K,0,,DEN,293.0,Y,K20,253.4,,,10,161,322,37.3,Brandon,McManus,McManusB.,,,,Brandon McManusB. McManus DEN,325,Brandon McManus
+329,329,New (NYJ)NYJ,FA,,DS,T24,,DST,288.0,Y,DST24,253.9,,,4,178,373,45.4,New,(NYJ)NYJ,York,,,,New York (NYJ)NYJ DST,326,New (NYJ)NYJ
+330,330,Taysom Hill,FA,,QB,37,,NO,,Y,QB37,292.7,,,9,234,462,45.2,Taysom,Hill,HillT.,,,,Taysom HillT. Hill NO,328,Taysom Hill
+331,331,Detroit DST,FA,,DS,T25,,,291.0,Y,DST25,275.6,,,5,171,323,29.4,Detroit,DST,(DET)DET,,,,Detroit (DET)DET DST,331,Detroit DST
+332,332,Darrel Williams,FA,,RB,103,,KC,322.0,Y,RB103,278.5,,,12,144,384,43.3,Darrel,Williams,WilliamsD.,,,,Darrel WilliamsD. Williams KC,341,Darrel Williams
+333,333,Mike Boone,FA,,RB,104,,MIN,,Y,RB104,278.6,,,12,160,405,49.4,Mike,Boone,BooneM.,,,,Mike BooneM. Boone MIN,335,Mike Boone
+334,334,Arizona DST,FA,,DS,T26,,,278.0,Y,DST26,270.7,,,12,172,353,38.4,Arizona,DST,(ARI)ARI,,,,Arizona (ARI)ARI DST,332,Arizona DST
+335,335,Keith Kirkwood,FA,,WR,116,,NO,,Y,WR116,277.2,,,9,201,327,28.5,Keith,Kirkwood,KirkwoodK.,,,,Keith KirkwoodK. Kirkwood NO,334,Keith Kirkwood
+336,336,Matt LaCosse,FA,Ankle,TE,33,,NE,252.0,Y,TE33,266.4,questionable,"LaCosse is dealing with a high-ankle sprain, and it is unclear if he will play against the Steelers in Week 1.",10,150,368,42.7,Matt,LaCosse,LaCosseM.,NWE,TE,Matt LaCosse,Matt LaCosseM. LaCosse NE,336,Matt LaCosse
+337,337,Jordan Thomas,FA,,TE,34,,HOU,369.0,Y,TE34,267.1,,,10,207,379,40.2,Jordan,Thomas,ThomasJ.,,,,Jordan ThomasJ. Thomas HOU,337,Jordan Thomas
+338,338,Josh Lambo,FA,,K,1,,JAC,302.0,Y,K21,256.9,,,10,163,307,38.1,Josh,Lambo,LamboJ.,,,,Josh LamboJ. Lambo JAC,338,Josh Lambo
+339,339,Mark Walton,FA,,RB,105,,MIA,398.0,Y,RB105,282.8,,,5,196,486,64.9,Mark,Walton,WaltonM.,,,,Mark WaltonM. Walton MIA,339,Mark Walton
+340,340,Jeff Wilson,FA,,RB,106,,FA,377.0,Y,RB106,285.6,,,,237,478,49.9,Jeff,Wilson,WilsonJ.,,,,Jeff WilsonJ. Wilson FA,340,Jeff Wilson
+341,341,Ricky Seals-Jones,FA,,TE,35,,FA,334.0,Y,TE35,264.7,,,,162,333,40.2,Ricky,Seals-Jones,Seals-JonesR.,,,,Ricky Seals-JonesR. Seals-Jones FA,333,Ricky Seals-Jones
+342,342,Matt Bryant,Dennis,,K,2,,ATL,,N,K22,237.1,,,9,186,346,51.1,Matt,Bryant,BryantM.,,,,Matt BryantM. Bryant ATL,346,Matt Bryant
+343,343,Trent Taylor,FA,Foot,WR,117,,SF,,Y,WR117,258.1,out,"Taylor is recovering from surgery to repair a Jones fracture in his foot, and it is expected that he will miss four to six weeks.",4,202,359,43.8,Trent,Taylor,TaylorT.,SFO,WR,Trent Taylor,Trent TaylorT. Taylor SF,342,Trent Taylor
+344,344,Irv Jr.I.,FA,,TE,36,,Smith MIN,222.0,Y,TE36,266.7,,,12,164,374,46.5,Irv,Jr.I.,Smith,,,,Irv Smith Jr.I. Smith MIN,344,Irv Jr.I.
+345,345,New (NYG)NYG,FA,,DS,T27,,DST,313.0,Y,DST27,282.7,,,11,169,407,55.6,New,(NYG)NYG,York,,,,New York (NYG)NYG DST,345,New (NYG)NYG
+346,346,Justin Watson,FA,,WR,118,,TB,,Y,WR118,259.5,,,7,192,372,39.9,Justin,Watson,WatsonJ.,,,,Justin WatsonJ. Watson TB,347,Justin Watson
+347,347,Greg Joseph,FA,,K,3,,FA,273.0,Y,K23,276.9,,,,178,404,45.8,Greg,Joseph,JosephG.,,,,Greg JosephG. Joseph FA,343,Greg Joseph
+348,348,Geoff Swaim,FA,Foot,TE,37,,JAC,355.0,Y,TE37,263.8,probable,Swaim is expected to line up against the Chiefs in the season opener despite a foot injury.,10,208,297,27.1,Geoff,Swaim,SwaimG.,JAX,TE,Geoff Swaim,Geoff SwaimG. Swaim JAC,348,Geoff Swaim
+349,349,Benjamin Watson,FA,,TE,38,,NE,365.0,Y,TE38,268.1,,,10,229,377,33.1,Benjamin,Watson,WatsonB.,,,,Benjamin WatsonB. Watson NE,349,Benjamin Watson
+350,350,Steven Hauschka,FA,,K,4,,BUF,294.0,Y,K24,268.5,,,6,164,323,32.4,Steven,Hauschka,HauschkaS.,,,,Steven HauschkaS. Hauschka BUF,350,Steven Hauschka
+351,351,Ameer Abdullah,FA,,RB,107,,MIN,,Y,RB107,285.6,,,12,253,320,13.6,Ameer,Abdullah,AbdullahA.,,,,Ameer AbdullahA. Abdullah MIN,351,Ameer Abdullah
+352,352,Drew Lock,FA,Thumb,QB,38,,DEN,360.0,Y,QB38,297.8,out,Lock suffered a right thumb sprain and will not be available for Week 1 against the Raiders.,10,218,441,55.6,Drew,Lock,LockD.,DEN,QB,Drew Lock,Drew LockD. Lock DEN,352,Drew Lock
+353,353,Jonnu Smith,FA,,TE,39,,TEN,403.0,Y,TE39,270.7,,,11,205,342,36.9,Jonnu,Smith,SmithJ.,,,,Jonnu SmithJ. Smith TEN,357,Jonnu Smith
+354,354,Jay Ajayi,FA,,RB,108,,FA,306.0,Y,RB108,214.3,,,,153,276,37.8,Jay,Ajayi,AjayiJ.,,,,Jay AjayiJ. Ajayi FA,353,Jay Ajayi
+355,355,Daniel Carlson,FA,,K,5,,OAK,300.0,Y,K25,275.9,,,6,165,329,35.7,Daniel,Carlson,CarlsonD.,,,,Daniel CarlsonD. Carlson OAK,354,Daniel Carlson
+356,356,Zach Zenner,FA,,RB,109,,FA,335.0,Y,RB109,283.6,,,,250,320,14.2,Zach,Zenner,ZennerZ.,,,,Zach ZennerZ. Zenner FA,355,Zach Zenner
+357,357,Karan Higdon,FA,,RB,110,,FA,384.0,Y,RB110,260.6,,,,144,434,64.4,Karan,Higdon,HigdonK.,,,,Karan HigdonK. Higdon FA,359,Karan Higdon
+358,358,San (SF)SF,FA,,DS,T28,,DST,262.0,Y,DST28,278.2,,,4,201,363,45.9,San,(SF)SF,Francisco,,,,San Francisco (SF)SF DST,358,San (SF)SF
+359,359,Andre Ellington,FA,,RB,111,,FA,402.0,Y,RB111,271.0,,,,201,445,57.7,Andre,Ellington,EllingtonA.,,,,Andre EllingtonA. Ellington FA,356,Andre Ellington
+360,360,C.J. Uzomah,FA,,TE,40,,CIN,349.0,Y,TE40,286.0,,,9,220,369,47.3,C.J.,Uzomah,UzomahC.,,,,C.J. UzomahC. Uzomah CIN,360,C.J. Uzomah
+361,361,Vernon Davis,FA,,TE,41,,WAS,396.0,Y,TE41,287.3,,,10,217,429,59.0,Vernon,Davis,DavisV.,,,,Vernon DavisV. Davis WAS,364,Vernon Davis
+362,362,Chad Beebe,FA,,WR,119,,MIN,,Y,WR119,270.5,,,12,183,353,34.6,Chad,Beebe,BeebeC.,,,,Chad BeebeC. Beebe MIN,361,Chad Beebe
+363,363,Blake Jarwin,FA,,TE,42,,DAL,340.0,Y,TE42,273.8,,,8,206,343,35.8,Blake,Jarwin,JarwinB.,,,,Blake JarwinB. Jarwin DAL,362,Blake Jarwin
+364,364,Bryce Love,FA,Knee,RB,112,,WAS,283.0,Y,RB112,290.0,I-R,"Love is on the Injured Reserve/Non-Football Injury list while recuperating from a torn ACL in his right knee, and it is uncertain how long he will be sidelined for.",10,184,438,55.7,Bryce,Love,LoveB.,WAS,RB,Bryce Love,Bryce LoveB. Love WAS,363,Bryce Love
+365,365,Jace Sternberger,FA,,TE,43,,GB,,Y,TE43,290.9,,,11,206,356,45.5,Jace,Sternberger,SternbergerJ.,,,,Jace SternbergerJ. Sternberger GB,365,Jace Sternberger
+366,366,Jesse James,FA,,TE,44,,DET,351.0,Y,TE44,291.3,,,5,210,367,45.8,Jesse,James,JamesJ.,,,,Jesse JamesJ. James DET,366,Jesse James
+367,367,Tampa (TB)TB,FA,,DS,T29,,DST,394.0,Y,DST29,310.3,,,7,249,361,32.9,Tampa,(TB)TB,Bay,,,,Tampa Bay (TB)TB DST,367,Tampa (TB)TB
+368,368,Trenton Cannon,FA,,RB,113,,NYJ,,Y,RB113,295.8,,,4,239,401,35.7,Trenton,Cannon,CannonT.,,,,Trenton CannonT. Cannon NYJ,368,Trenton Cannon
+369,369,Jakeem Grant,FA,,WR,120,,MIA,395.0,Y,WR120,303.8,,,5,163,391,53.2,Jakeem,Grant,GrantJ.,,,,Jakeem GrantJ. Grant MIA,382,Jakeem Grant
+370,370,Cody Latimer,FA,,WR,121,,NYG,,Y,WR121,290.7,,,11,145,383,55.4,Cody,Latimer,LatimerC.,,,,Cody LatimerC. Latimer NYG,369,Cody Latimer
+371,371,Marcus Murphy,FA,,RB,114,,FA,,Y,RB114,312.4,,,,246,487,76.1,Marcus,Murphy,MurphyM.,,,,Marcus MurphyM. Murphy FA,370,Marcus Murphy
+372,372,DeAndre Washington,FA,,RB,115,,OAK,,Y,RB115,276.4,,,6,209,485,76.9,DeAndre,Washington,WashingtonD.,,,,DeAndre WashingtonD. Washington OAK,380,DeAndre Washington
+373,373,Miami DST,FA,,DS,T30,,,307.0,Y,DST30,315.3,,,5,167,443,48.5,Miami,DST,(MIA)MIA,,,,Miami (MIA)MIA DST,371,Miami DST
+374,374,Josh Oliver,FA,Hamstring,TE,45,,JAC,401.0,Y,TE45,286.1,questionable,"Oliver is dealing with a hamstring injury, and it is unclear if he will be available against the Chiefs in Week 1.",10,155,341,48.9,Josh,Oliver,OliverJ.,JAX,TE,Josh Oliver,Josh OliverJ. Oliver JAC,372,Josh Oliver
+375,375,Chris Moore,FA,,WR,122,,BAL,236.0,Y,WR122,286.7,,,8,216,375,58.9,Chris,Moore,MooreC.,,,,Chris MooreC. Moore BAL,373,Chris Moore
+376,376,Charles Clay,FA,,TE,46,,ARI,,Y,TE46,308.5,,,12,270,373,35.2,Charles,Clay,ClayC.,,,,Charles ClayC. Clay ARI,374,Charles Clay
+377,377,Blake Bortles,FA,,QB,39,,LAR,370.0,Y,QB39,308.8,,,9,267,458,56.0,Blake,Bortles,BortlesB.,,,,Blake BortlesB. Bortles LAR,375,Blake Bortles
+378,378,Cairo Santos,FA,,K,6,,FA,,Y,K26,288.9,,,,246,326,22.2,Cairo,Santos,SantosC.,,,,Cairo SantosC. Santos FA,376,Cairo Santos
+379,379,Dawson Knox,FA,Hamstring,TE,47,,BUF,385.0,Y,TE47,292.0,out,Knox is tending to a hamstring injury and is without a definitive timetable for return.,6,192,367,49.1,Dawson,Knox,KnoxD.,BUF,TE,Dawson Knox,Dawson KnoxD. Knox BUF,377,Dawson Knox
+380,380,Kelvin Harmon,FA,,WR,123,,WAS,247.0,Y,WR123,292.8,,,10,204,405,52.5,Kelvin,Harmon,HarmonK.,,,,Kelvin HarmonK. Harmon WAS,378,Kelvin Harmon
+381,381,Nick Vannett,FA,,TE,48,,SEA,372.0,Y,TE48,300.2,,,11,225,352,30.6,Nick,Vannett,VannettN.,,,,Nick VannettN. Vannett SEA,379,Nick Vannett
+382,382,Tim Patrick,FA,,WR,124,,DEN,363.0,Y,WR124,287.0,,,10,189,355,50.3,Tim,Patrick,PatrickT.,,,,Tim PatrickT. Patrick DEN,381,Tim Patrick
+383,383,Tyler Higbee,FA,,TE,49,,LAR,,Y,TE49,300.9,,,9,214,372,44.3,Tyler,Higbee,HigbeeT.,,,,Tyler HigbeeT. Higbee LAR,383,Tyler Higbee
+384,384,Jake Butt,FA,Knee,TE,50,,DEN,,Y,TE50,323.6,I-R,Butt is recuperating from a torn ACL and underwent another procedure on his left knee and is expected to be shut down for one month.,10,239,394,40.2,Jake,Butt,ButtJ.,DEN,TE,Jake Butt,Jake ButtJ. Butt DEN,384,Jake Butt
+385,385,Devine Ozigbo,FA,,RB,116,,FA,,Y,RB116,247.0,,,,210,287,27.2,Devine,Ozigbo,OzigboD.,,,,Devine OzigboD. Ozigbo FA,385,Devine Ozigbo
+386,386,Ryan Switzer,FA,,WR,125,,PIT,400.0,Y,WR125,294.1,,,7,194,419,71.8,Ryan,Switzer,SwitzerR.,,,,Ryan SwitzerR. Switzer PIT,387,Ryan Switzer
+387,387,Dustin Hopkins,FA,,K,7,,WAS,314.0,Y,K27,296.9,,,10,250,330,22.0,Dustin,Hopkins,HopkinsD.,,,,Dustin HopkinsD. Hopkins WAS,388,Dustin Hopkins
+388,388,Ryan Grant,FA,,WR,126,,OAK,,Y,WR126,322.3,,,6,218,414,53.8,Ryan,Grant,GrantR.,,,,Ryan GrantR. Grant OAK,389,Ryan Grant
+389,389,Gary Jennings,FA,,WR,127,,SEA,393.0,Y,WR127,322.4,,,11,225,450,58.4,Gary,Jennings,JenningsG.,,,,Gary JenningsG. Jennings SEA,390,Gary Jennings
+390,390,Damion Willis,FA,,WR,128,,CIN,,Y,WR128,231.0,,,9,198,271,26.7,Damion,Willis,WillisD.,,,,Damion WillisD. Willis CIN,391,Damion Willis
+391,391,Elijah Holyfield,FA,,RB,117,,CAR,279.0,Y,RB117,306.7,,,7,176,458,66.2,Elijah,Holyfield,HolyfieldE.,,,,Elijah HolyfieldE. Holyfield CAR,401,Elijah Holyfield
+392,392,Tyler Kroft,FA,Foot,TE,51,,BUF,404.0,Y,TE51,306.9,I-R,"Kroft broke his foot during the offseason, and it is unknown how much time he will miss while on the PUP list.",6,202,378,44.5,Tyler,Kroft,KroftT.,BUF,TE,Tyler Kroft,Tyler KroftT. Kroft BUF,392,Tyler Kroft
+393,393,Emmanuel Butler,FA,,WR,129,,FA,,Y,WR129,277.8,,,,216,344,49.5,Emmanuel,Butler,ButlerE.,,,,Emmanuel ButlerE. Butler FA,393,Emmanuel Butler
+394,394,Raheem Mostert,FA,Concussion,RB,118,,SF,,Y,RB118,280.3,out,"Mostert has a concussion, and it is uncertain how long it will take for him to pass the league-mandated protocol.",4,213,481,96.2,Raheem,Mostert,MostertR.,SFO,RB,Raheem Mostert,Raheem MostertR. Mostert SF,409,Raheem Mostert
+395,395,Cameron Meredith,FA,Knee,WR,130,,NE,,Y,WR130,332.8,I-R,"Meredith has been placed on the PUP list with a knee injury, and it is unknown when he will be cleared to play.",10,244,434,61.4,Cameron,Meredith,MeredithC.,NWE,WR,Cameron Meredith,Cameron MeredithC. Meredith NE,394,Cameron Meredith
+396,396,Buddy Howell,FA,,RB,119,,HOU,,Y,RB119,281.0,,,10,118,445,90.5,Buddy,Howell,HowellB.,,,,Buddy HowellB. Howell HOU,386,Buddy Howell
+397,397,Adam Shaheen,FA,,TE,52,,CHI,,Y,TE52,317.0,,,6,184,375,33.2,Adam,Shaheen,ShaheenA.,,,,Adam ShaheenA. Shaheen CHI,395,Adam Shaheen
+398,398,Dontrelle Inman,FA,,WR,131,,LAC,399.0,Y,WR131,338.6,,,12,255,447,65.4,Dontrelle,Inman,InmanD.,,,,Dontrelle InmanD. Inman LAC,396,Dontrelle Inman
+399,399,Matt Gay,FA,,K,8,,TB,328.0,Y,K28,290.8,,,7,192,452,83.9,Matt,Gay,GayM.,,,,Matt GayM. Gay TB,397,Matt Gay
+400,400,Alex Barnes,FA,,RB,120,,FA,,Y,RB120,290.8,,,,205,453,76.6,Alex,Barnes,BarnesA.,,,,Alex BarnesA. Barnes FA,398,Alex Barnes
+401,401,Darius Slayton,FA,Hamstring,WR,132,,NYG,,Y,WR132,328.0,questionable,"Slayton hurt his hamstring, and it is uncertain if he will participate in Week 1 against the Cowboys.",11,245,390,38.6,Darius,Slayton,SlaytonD.,NYG,WR,Darius Slayton,Darius SlaytonD. Slayton NYG,399,Darius Slayton
+402,402,Kyle Juszczyk,FA,,RB,121,,SF,357.0,Y,RB121,264.4,,,4,240,298,21.3,Kyle,Juszczyk,JuszczykK.,,,,Kyle JuszczykK. Juszczyk SF,418,Kyle Juszczyk
+403,403,J.D. McKissic,FA,,RB,122,,FA,,Y,RB122,266.0,,,,232,279,17.4,J.D.,McKissic,McKissicJ.,,,,J.D. McKissicJ. McKissic FA,400,J.D. McKissic
+404,404,Demetrius Harris,FA,,TE,53,,CLE,379.0,Y,TE53,310.2,,,7,265,348,29.8,Demetrius,Harris,HarrisD.,,,,Demetrius HarrisD. Harris CLE,402,Demetrius Harris
+405,405,Javorius Allen,FA,,RB,123,,FA,,Y,RB123,275.2,,,,253,316,23.6,Javorius,Allen,AllenJ.,,,,Javorius AllenJ. Allen FA,403,Javorius Allen
+406,406,Cody Parkey,FA,,K,9,,FA,,Y,K29,226.0,,,,162,303,56.2,Cody,Parkey,ParkeyC.,,,,Cody ParkeyC. Parkey FA,404,Cody Parkey
+407,407,Nick Mullens,FA,,QB,40,,SF,,Y,QB40,341.1,,,4,250,485,75.5,Nick,Mullens,MullensN.,,,,Nick MullensN. Mullens SF,423,Nick Mullens
+408,408,LeGarrette Blount,FA,,RB,124,,FA,,Y,RB124,283.4,,,,271,318,17.4,LeGarrette,Blount,BlountL.,,,,LeGarrette BlountL. Blount FA,405,LeGarrette Blount
+409,409,Kendrick Bourne,FA,,WR,133,,SF,333.0,Y,WR133,319.3,,,4,256,392,41.8,Kendrick,Bourne,BourneK.,,,,Kendrick BourneK. Bourne SF,406,Kendrick Bourne
+410,410,Travis Homer,FA,,RB,125,,SEA,,Y,RB125,322.0,,,11,232,429,67.8,Travis,Homer,HomerT.,,,,Travis HomerT. Homer SEA,407,Travis Homer
+411,411,Laquon Treadwell,FA,,WR,134,,FA,331.0,Y,WR134,324.0,,,,259,390,54.4,Laquon,Treadwell,TreadwellL.,,,,Laquon TreadwellL. Treadwell FA,408,Laquon Treadwell
+412,412,Mo Alie-Cox,FA,,TE,54,,IND,,Y,TE54,325.2,,,6,276,403,41.8,Mo,Alie-Cox,Alie-CoxM.,,,,Mo Alie-CoxM. Alie-Cox IND,410,Mo Alie-Cox
+413,413,Alex Collins,FA,,RB,126,,FA,325.0,Y,RB126,246.0,,,,222,275,19.5,Alex,Collins,CollinsA.,,,,Alex CollinsA. Collins FA,411,Alex Collins
+414,414,Teddy Bridgewater,FA,,QB,41,,NO,,Y,QB41,327.7,,,9,245,481,78.4,Teddy,Bridgewater,BridgewaterT.,,,,Teddy BridgewaterT. Bridgewater NO,412,Teddy Bridgewater
+415,415,J'Mon Moore,FA,,WR,135,,FA,,Y,WR135,351.9,,,,248,464,62.2,J'Mon,Moore,MooreJ.,,,,J'Mon MooreJ. Moore FA,431,J'Mon Moore
+416,416,Oakland DST,FA,,DS,T31,,,,Y,DST31,301.4,,,6,243,353,42.2,Oakland,DST,(OAK)OAK,,,,Oakland (OAK)OAK DST,413,Oakland DST
+417,417,Riley Ridley,FA,,WR,136,,CHI,269.0,Y,WR136,332.8,,,6,235,416,60.4,Riley,Ridley,RidleyR.,,,,Riley RidleyR. Ridley CHI,414,Riley Ridley
+418,418,Foster Moreau,FA,,TE,55,,OAK,,Y,TE55,333.5,,,6,272,408,46.3,Foster,Moreau,MoreauF.,,,,Foster MoreauF. Moreau OAK,415,Foster Moreau
+419,419,Maurice Harris,FA,,WR,137,,FA,,Y,WR137,303.4,,,,246,357,48.0,Maurice,Harris,HarrisM.,,,,Maurice HarrisM. Harris FA,416,Maurice Harris
+420,420,Allen Hurns,FA,,WR,138,,MIA,,Y,WR138,358.9,,,5,229,430,43.7,Allen,Hurns,HurnsA.,,,,Allen HurnsA. Hurns MIA,434,Allen Hurns
+421,421,Jason Croom,FA,Hand,TE,56,,BUF,,Y,TE56,308.6,I-R,"Croom is expected to begin the season on injured reserve, and it is unclear when he might return to action.",6,276,364,31.3,Jason,Croom,CroomJ.,BUF,TE,Jason Croom,Jason CroomJ. Croom BUF,417,Jason Croom
+422,422,Jarius Wright,FA,,WR,139,,CAR,358.0,Y,WR139,317.4,,,7,205,371,62.3,Jarius,Wright,WrightJ.,,,,Jarius WrightJ. Wright CAR,419,Jarius Wright
+423,423,Josh Ferguson,FA,,RB,127,,FA,,Y,RB127,203.3,,,,159,264,44.4,Josh,Ferguson,FergusonJ.,,,,Josh FergusonJ. Ferguson FA,420,Josh Ferguson
+424,424,Chandler Catanzaro,FA,,K,0,,FA,,Y,K30,275.3,,,,229,334,39.7,Chandler,Catanzaro,CatanzaroC.,,,,Chandler CatanzaroC. Catanzaro FA,421,Chandler Catanzaro
+425,425,Austin Seibert,FA,,K,1,,CLE,228.0,Y,K31,320.4,,,7,255,432,63.4,Austin,Seibert,SeibertA.,,,,Austin SeibertA. Seibert CLE,422,Austin Seibert
+426,426,Joey Slye,FA,,K,2,,CAR,,Y,K32,279.0,,,7,215,436,91.0,Joey,Slye,SlyeJ.,,,,Joey SlyeJ. Slye CAR,459,Joey Slye
+427,427,Eddy Pineiro,FA,,K,3,,CHI,312.0,Y,K33,325.8,,,6,240,434,65.5,Eddy,Pineiro,PineiroE.,,,,Eddy PineiroE. Pineiro CHI,424,Eddy Pineiro
+428,428,Jazz Ferguson,FA,,WR,140,,FA,,Y,WR140,285.8,,,,229,374,54.2,Jazz,Ferguson,FergusonJ.,,,,Jazz FergusonJ. Ferguson FA,425,Jazz Ferguson
+429,429,Corey Grant,FA,,RB,128,,FA,,Y,RB128,286.5,,,,233,328,34.2,Corey,Grant,GrantC.,,,,Corey GrantC. Grant FA,426,Corey Grant
+430,430,Kahale Warring,FA,Concussion,TE,57,,HOU,,Y,TE57,331.0,out,"Warring is going through the league-mandated concussion protocol, and it is unknown when he will be cleared.",10,230,380,32.8,Kahale,Warring,WarringK.,HOU,TE,Kahale Warring,Kahale WarringK. Warring HOU,427,Kahale Warring
+431,431,Jeff Heuerman,FA,,TE,58,,DEN,,Y,TE58,332.8,,,10,212,368,29.6,Jeff,Heuerman,HeuermanJ.,,,,Jeff HeuermanJ. Heuerman DEN,428,Jeff Heuerman
+432,432,C.J. Prosise,FA,Hamstring,RB,129,,SEA,390.0,Y,RB129,296.0,questionable,"Prosise is hampered by tightness in his hamstring, and it is unclear if he will suit up against the Bengals during Week 1.",11,219,381,61.2,C.J.,Prosise,ProsiseC.,SEA,RB,C.J. Prosise,C.J. ProsiseC. Prosise SEA,466,C.J. Prosise
+433,433,Randy Bullock,FA,,K,4,,CIN,317.0,Y,K34,300.5,,,9,263,331,26.2,Randy,Bullock,BullockR.,,,,Randy BullockR. Bullock CIN,429,Randy Bullock
+434,434,Mike Davis,FA,,WR,141,,FA,,Y,WR141,113.5,,,,110,117,3.5,Mike,Davis,DavisM.,,,,Mike DavisM. Davis FA,166,Mike Davis
+435,434,Mike Davis,FA,,WR,141,,FA,,Y,WR141,113.5,,,,110,117,3.5,Mike,Davis,DavisM.,,,,Mike DavisM. Davis FA,430,Mike Davis
+436,435,Cincinnati DST,FA,,DS,T32,,,305.0,Y,DST32,345.2,,,9,265,413,56.0,Cincinnati,DST,(CIN)CIN,,,,Cincinnati (CIN)CIN DST,432,Cincinnati DST
+437,436,Luke Willson,FA,,TE,59,,FA,,Y,TE59,345.2,,,,285,388,36.2,Luke,Willson,WillsonL.,,,,Luke WillsonL. Willson FA,433,Luke Willson
+438,437,Greg Dortch,FA,,WR,142,,NYJ,,Y,WR142,311.5,,,4,241,476,95.6,Greg,Dortch,DortchG.,,,,Greg DortchG. Dortch NYJ,435,Greg Dortch
+439,438,Dwayne Allen,FA,,TE,60,,FA,,Y,TE60,348.0,,,,225,440,72.5,Dwayne,Allen,AllenD.,,,,Dwayne AllenD. Allen FA,436,Dwayne Allen
+440,439,Mack Hollins,FA,,WR,143,,PHI,,Y,WR143,372.0,,,10,287,462,63.8,Mack,Hollins,HollinsM.,,,,Mack HollinsM. Hollins PHI,437,Mack Hollins
+441,440,Tyrod Taylor,FA,,QB,42,,LAC,,Y,QB42,348.6,,,12,276,464,83.7,Tyrod,Taylor,TaylorT.,,,,Tyrod TaylorT. Taylor LAC,438,Tyrod Taylor
+442,441,Isaiah McKenzie,FA,,WR,144,,BUF,361.0,Y,WR144,350.6,,,6,196,429,82.1,Isaiah,McKenzie,McKenzieI.,,,,Isaiah McKenzieI. McKenzie BUF,439,Isaiah McKenzie
+443,442,Will Grier,FA,,QB,43,,CAR,,Y,QB43,350.6,,,7,247,428,73.8,Will,Grier,GrierW.,,,,Will GrierW. Grier CAR,440,Will Grier
+444,443,Blake Bell,FA,,TE,61,,KC,,Y,TE61,350.8,,,12,290,459,61.1,Blake,Bell,BellB.,,,,Blake BellB. Bell KC,441,Blake Bell
+445,444,Kaare Vedvik,FA,,K,5,,FA,,Y,K35,260.7,,,,235,285,20.4,Kaare,Vedvik,VedvikK.,,,,Kaare VedvikK. Vedvik FA,442,Kaare Vedvik
+446,445,Jordan Matthews,FA,,WR,145,,FA,350.0,Y,WR145,353.4,,,,320,375,20.3,Jordan,Matthews,MatthewsJ.,,,,Jordan MatthewsJ. Matthews FA,443,Jordan Matthews
+447,446,Tavon Austin,FA,,WR,146,,DAL,,Y,WR146,354.0,,,8,257,393,51.5,Tavon,Austin,AustinT.,,,,Tavon AustinT. Austin DAL,444,Tavon Austin
+448,447,Zane Gonzalez,FA,,K,6,,ARI,,Y,K36,320.3,,,12,263,423,61.4,Zane,Gonzalez,GonzalezZ.,,,,Zane GonzalezZ. Gonzalez ARI,445,Zane Gonzalez
+449,448,Jordan Akins,FA,,TE,62,,HOU,,Y,TE62,354.2,,,10,281,433,58.4,Jordan,Akins,AkinsJ.,,,,Jordan AkinsJ. Akins HOU,446,Jordan Akins
+450,449,Colt McCoy,FA,Shin,QB,44,,WAS,,Y,QB44,323.8,doubtful,"McCoy is receiving treatment for a fractured right fibula, leaving his availability in doubt for Week 1 against the Eagles.",10,270,456,76.6,Colt,McCoy,McCoyC.,WAS,QB,Colt McCoy,Colt McCoyC. McCoy WAS,477,Colt McCoy
+451,450,Alex Erickson,FA,,WR,147,,CIN,,Y,WR147,360.0,,,9,302,383,24.4,Alex,Erickson,EricksonA.,,,,Alex EricksonA. Erickson CIN,447,Alex Erickson
+452,451,Paul Perkins,FA,,RB,130,,NYG,,Y,RB130,329.0,,,11,265,450,74.1,Paul,Perkins,PerkinsP.,,,,Paul PerkinsP. Perkins NYG,486,Paul Perkins
+453,452,Jason Sanders,FA,,K,7,,MIA,380.0,Y,K37,329.3,,,5,295,354,24.5,Jason,Sanders,SandersJ.,,,,Jason SandersJ. Sanders MIA,448,Jason Sanders
+454,453,Seth Roberts,FA,,WR,148,,BAL,353.0,Y,WR148,361.4,,,8,267,411,49.6,Seth,Roberts,RobertsS.,,,,Seth RobertsS. Roberts BAL,449,Seth Roberts
+455,454,Chester Rogers,FA,,WR,149,,IND,346.0,Y,WR149,363.6,,,6,237,435,43.9,Chester,Rogers,RogersC.,,,,Chester RogersC. Rogers IND,450,Chester Rogers
+456,455,Jacob Hollister,FA,,TE,63,,FA,,Y,TE63,333.0,,,,267,442,69.4,Jacob,Hollister,HollisterJ.,,,,Jacob HollisterJ. Hollister FA,451,Jacob Hollister
+457,456,Torrey Smith,FA,,WR,150,,CAR,,Y,WR150,364.4,,,7,293,415,43.2,Torrey,Smith,SmithT.,,,,Torrey SmithT. Smith CAR,452,Torrey Smith
+458,457,Darius Jackson,FA,,RB,131,,FA,,Y,RB131,334.3,,,,262,474,82.2,Darius,Jackson,JacksonD.,,,,Darius JacksonD. Jackson FA,453,Darius Jackson
+459,458,J.J. Nelson,FA,,WR,151,,OAK,,Y,WR151,334.5,,,6,298,362,23.2,J.J.,Nelson,NelsonJ.,,,,J.J. NelsonJ. Nelson OAK,454,J.J. Nelson
+460,459,Josh Malone,FA,,WR,152,,CIN,,Y,WR152,340.8,,,9,269,426,71.9,Josh,Malone,MaloneJ.,,,,Josh MaloneJ. Malone CIN,455,Josh Malone
+461,460,Jeremy Hill,FA,,RB,132,,FA,,Y,RB132,294.3,,,,251,333,33.6,Jeremy,Hill,HillJ.,,,,Jeremy HillJ. Hill FA,456,Jeremy Hill
+462,461,Marcell Ateman,FA,,WR,153,,FA,397.0,Y,WR153,372.6,,,,302,413,39.0,Marcell,Ateman,AtemanM.,,,,Marcell AtemanM. Ateman FA,457,Marcell Ateman
+463,462,Chris Ivory,FA,,RB,133,,FA,376.0,Y,RB133,294.7,,,,279,319,17.4,Chris,Ivory,IvoryC.,,,,Chris IvoryC. Ivory FA,458,Chris Ivory
+464,463,D'Ernest Johnson,FA,,RB,134,,CLE,,Y,RB134,345.3,,,7,214,473,114.4,D'Ernest,Johnson,JohnsonD.,,,,D'Ernest JohnsonD. Johnson CLE,461,D'Ernest Johnson
+465,464,Maxx Williams,FA,,TE,64,,ARI,,Y,TE64,375.2,,,12,306,463,59.5,Maxx,Williams,WilliamsM.,,,,Maxx WilliamsM. Williams ARI,460,Maxx Williams
+466,465,Ed Dickson,FA,Knee,TE,65,,SEA,,Y,TE65,378.8,out,Dickson is likely to miss four to five weeks after having a knee scope performed during the offseason.,11,287,439,52.3,Ed,Dickson,DicksonE.,SEA,TE,Ed Dickson,Ed DicksonE. Dickson SEA,462,Ed Dickson
+467,466,Brett Hundley,FA,,QB,45,,ARI,,Y,QB45,351.3,,,12,248,435,82.7,Brett,Hundley,HundleyB.,,,,Brett HundleyB. Hundley ARI,463,Brett Hundley
+468,467,Cody Core,FA,,WR,154,,FA,,Y,WR154,379.0,,,,285,458,58.8,Cody,Core,CoreC.,,,,Cody CoreC. Core FA,464,Cody Core
+469,468,Chase Daniel,FA,,QB,46,,CHI,,Y,QB46,384.4,,,6,292,474,80.1,Chase,Daniel,DanielC.,,,,Chase DanielC. Daniel CHI,507,Chase Daniel
+470,469,Rhett Ellison,FA,,TE,66,,NYG,,Y,TE66,314.3,,,11,283,345,25.3,Rhett,Ellison,EllisonR.,,,,Rhett EllisonR. Ellison NYG,465,Rhett Ellison
+471,470,Detrez Newsome,FA,,RB,135,,FA,,Y,RB135,322.3,,,,232,438,86.0,Detrez,Newsome,NewsomeD.,,,,Detrez NewsomeD. Newsome FA,526,Detrez Newsome
+472,471,Austin Seferian-Jenkins,FA,,TE,67,,FA,,Y,TE67,323.0,,,,288,369,34.0,Austin,Seferian-Jenkins,Seferian-JenkinsA.,,,,Austin Seferian-JenkinsA. Seferian-Jenkins FA,467,Austin Seferian-Jenkins
+473,472,Bennie Fowler,FA,,WR,155,,NYG,,Y,WR155,323.3,,,11,277,378,41.7,Bennie,Fowler,FowlerB.,,,,Bennie FowlerB. Fowler NYG,468,Bennie Fowler
+474,473,James O'Shaughnessy,FA,,TE,68,,JAC,,Y,TE68,365.0,,,10,323,410,36.4,James,O'Shaughnessy,O'ShaughnessyJ.,,,,James O'ShaughnessyJ. O'Shaughnessy JAC,469,James O'Shaughnessy
+475,474,Trevon Wesco,FA,,TE,69,,NYJ,,Y,TE69,326.7,,,4,286,349,28.8,Trevon,Wesco,WescoT.,,,,Trevon WescoT. Wesco NYJ,470,Trevon Wesco
+476,475,Dez Bryant,FA,,WR,156,,FA,,Y,WR156,248.0,,,,228,268,20.0,Dez,Bryant,BryantD.,,,,Dez BryantD. Bryant FA,471,Dez Bryant
+477,476,Justin Hardy,FA,,WR,157,,ATL,,Y,WR157,369.3,,,9,271,457,66.8,Justin,Hardy,HardyJ.,,,,Justin HardyJ. Hardy ATL,472,Justin Hardy
+478,477,Ryan Finley,FA,,QB,47,,CIN,,Y,QB47,329.3,,,9,250,454,89.2,Ryan,Finley,FinleyR.,,,,Ryan FinleyR. Finley CIN,473,Ryan Finley
+479,478,Josh Hill,FA,,TE,70,,NO,,Y,TE70,371.8,,,9,341,418,29.5,Josh,Hill,HillJ.,,,,Josh HillJ. Hill NO,474,Josh Hill
+480,479,Emanuel Hall,FA,,WR,158,,FA,270.0,Y,WR158,333.0,,,,269,420,63.8,Emanuel,Hall,HallE.,,,,Emanuel HallE. Hall FA,475,Emanuel Hall
+481,480,Nick Boyle,FA,,TE,71,,BAL,,Y,TE71,373.5,,,8,239,461,82.0,Nick,Boyle,BoyleN.,,,,Nick BoyleN. Boyle BAL,476,Nick Boyle
+482,481,DeAndre Carter,FA,,WR,159,,HOU,,Y,WR159,336.7,,,10,294,398,44.5,DeAndre,Carter,CarterD.,,,,DeAndre CarterD. Carter HOU,478,DeAndre Carter
+483,482,Josh Bellamy,FA,,WR,160,,NYJ,,Y,WR160,375.8,,,4,305,407,41.2,Josh,Bellamy,BellamyJ.,,,,Josh BellamyJ. Bellamy NYJ,479,Josh Bellamy
+484,483,Pierre Garcon,FA,,WR,161,,FA,,Y,WR161,263.5,,,,263,264,0.5,Pierre,Garcon,GarconP.,,,,Pierre GarconP. Garcon FA,480,Pierre Garcon
+485,484,Luke Stocker,FA,,TE,72,,ATL,,Y,TE72,339.7,,,9,235,411,75.6,Luke,Stocker,StockerL.,,,,Luke StockerL. Stocker ATL,481,Luke Stocker
+486,485,CJ Ham,FA,,RB,136,,MIN,,Y,RB136,344.0,,,12,291,419,54.5,CJ,Ham,HamC.,,,,CJ HamC. Ham MIN,482,CJ Ham
+487,486,Scott Miller,FA,,WR,162,,TB,,Y,WR162,381.5,,,7,276,472,70.7,Scott,Miller,MillerS.,,,,Scott MillerS. Miller TB,483,Scott Miller
+488,487,Robert Griffin,FA,Thumb,QB,48,,BAL,,Y,QB48,382.5,probable,Griffin III has a hairline fracture in his right thumb but is likely to return Week 1 against the Dolphins.,8,282,460,69.4,Robert,Griffin,GriffinR.,BAL,QB,Robert Griffin,Robert GriffinR. Griffin BAL,484,Robert Griffin
+489,488,Tajae Sharpe,FA,,WR,163,,TEN,359.0,Y,WR163,382.8,,,11,281,452,63.7,Tajae,Sharpe,SharpeT.,,,,Tajae SharpeT. Sharpe TEN,485,Tajae Sharpe
+490,489,Nick O'Leary,FA,,TE,73,,MIA,,Y,TE73,351.3,,,5,342,370,13.2,Nick,O'Leary,O'LearyN.,,,,Nick O'LearyN. O'Leary MIA,487,Nick O'Leary
+491,490,Samaje Perine,FA,,RB,137,,FA,,Y,RB137,283.0,,,,250,316,33.0,Samaje,Perine,PerineS.,,,,Samaje PerineS. Perine FA,488,Samaje Perine
+492,491,Trent Sherfield,FA,,WR,164,,ARI,,Y,WR164,283.0,,,12,279,287,4.0,Trent,Sherfield,SherfieldT.,,,,Trent SherfieldT. Sherfield ARI,489,Trent Sherfield
+493,492,Xavier Grimble,FA,,TE,74,,PIT,,Y,TE74,386.5,,,7,284,453,63.8,Xavier,Grimble,GrimbleX.,,,,Xavier GrimbleX. Grimble PIT,490,Xavier Grimble
+494,493,Andre Roberts,FA,,WR,165,,BUF,,Y,WR165,353.7,,,6,301,410,44.6,Andre,Roberts,RobertsA.,,,,Andre RobertsA. Roberts BUF,491,Andre Roberts
+495,494,Byron Pringle,FA,,WR,166,,KC,,Y,WR166,388.0,,,12,306,449,55.2,Byron,Pringle,PringleB.,,,,Byron PringleB. Pringle KC,492,Byron Pringle
+496,495,Chad Kelly,FA,Suspension,QB,49,,IND,,Y,QB49,288.0,out,Kelly has been handed a two-game suspension for violating the league's personal conduct policy. He is expected to make his season debut against the Falcons in Week 3.,6,284,292,4.0,Chad,Kelly,KellyC.,IND,QB,Chad Kelly,Chad KellyC. Kelly IND,493,Chad Kelly
+497,496,Russell Shepard,FA,,WR,167,,NYG,,Y,WR167,356.3,,,11,297,407,45.3,Russell,Shepard,ShepardR.,,,,Russell ShepardR. Shepard NYG,494,Russell Shepard
+498,497,Dan Arnold,FA,,TE,75,,FA,,Y,TE75,391.3,,,,356,422,26.2,Dan,Arnold,ArnoldD.,,,,Dan ArnoldD. Arnold FA,495,Dan Arnold
+499,498,Eli Rogers,FA,,WR,168,,FA,,Y,WR168,393.8,,,,312,451,51.4,Eli,Rogers,RogersE.,,,,Eli RogersE. Rogers FA,496,Eli Rogers
+500,499,Boston Scott,FA,,RB,138,,FA,,Y,RB138,299.0,,,,299,299,0.0,Boston,Scott,ScottB.,,,,Boston ScottB. Scott FA,497,Boston Scott
+501,500,Deontay Burnett,FA,,WR,169,,FA,,Y,WR169,362.7,,,,284,409,55.9,Deontay,Burnett,BurnettD.,,,,Deontay BurnettD. Burnett FA,498,Deontay Burnett
+502,501,Braxton Berrios,FA,,WR,170,,FA,,Y,WR170,364.7,,,,333,400,27.5,Braxton,Berrios,BerriosB.,,,,Braxton BerriosB. Berrios FA,499,Braxton Berrios
+503,502,Matt Barkley,FA,,QB,50,,BUF,,Y,QB50,396.0,,,6,283,466,76.3,Matt,Barkley,BarkleyM.,,,,Matt BarkleyM. Barkley BUF,500,Matt Barkley
+504,503,Juwann Winfree,FA,,WR,171,,DEN,,Y,WR171,369.7,,,10,304,448,59.5,Juwann,Winfree,WinfreeJ.,,,,Juwann WinfreeJ. Winfree DEN,501,Juwann Winfree
+505,504,AJ McCarron,FA,,QB,51,,HOU,,Y,QB51,402.8,,,10,292,480,76.6,AJ,McCarron,McCarronA.,,,,AJ McCarronA. McCarron HOU,502,AJ McCarron
+506,505,Lil'Jordan Humphrey,FA,,WR,172,,FA,,Y,WR172,377.0,,,,279,435,69.7,Lil'Jordan,Humphrey,HumphreyL.,,,,Lil'Jordan HumphreyL. Humphrey FA,503,Lil'Jordan Humphrey
+507,506,Noah Brown,FA,,WR,173,,DAL,,Y,WR173,378.0,,,8,282,464,74.6,Noah,Brown,BrownN.,,,,Noah BrownN. Brown DAL,504,Noah Brown
+508,507,Dylan Cantrell,FA,Shoulder,WR,174,,LAC,,Y,WR174,379.3,I-R,Cantrell has been designated for the injured reserve list with a shoulder injury.,12,335,412,32.5,Dylan,Cantrell,CantrellD.,LAC,WR,Dylan Cantrell,Dylan CantrellD. Cantrell LAC,505,Dylan Cantrell
+509,508,Brandon Powell,FA,,WR,175,,FA,,Y,WR175,380.0,,,,280,448,72.2,Brandon,Powell,PowellB.,,,,Brandon PowellB. Powell FA,506,Brandon Powell
+510,509,Stanley Jr.S.,FA,,WR,176,,Morgan FA,,Y,WR176,326.0,,,,289,363,37.0,Stanley,Jr.S.,Morgan,,,,Stanley Morgan Jr.S. Morgan FA,508,Stanley Jr.S.
+511,510,David Sills,FA,,WR,177,,FA,,Y,WR177,328.5,,,,229,428,99.5,David,Sills,SillsD.,,,,David SillsD. Sills FA,509,David Sills
+512,511,Virgil Green,FA,,TE,76,,LAC,,Y,TE76,382.3,,,12,337,451,49.4,Virgil,Green,GreenV.,,,,Virgil GreenV. Green LAC,510,Virgil Green
+513,512,Zach Pascal,FA,,WR,178,,IND,371.0,Y,WR178,385.3,,,6,322,465,59.5,Zach,Pascal,PascalZ.,,,,Zach PascalZ. Pascal IND,511,Zach Pascal
+514,513,Mason Rudolph,FA,,QB,52,,PIT,388.0,Y,QB52,385.7,,,7,303,491,78.4,Mason,Rudolph,RudolphM.,,,,Mason RudolphM. Rudolph PIT,512,Mason Rudolph
+515,514,Russell Gage,FA,,WR,179,,ATL,,Y,WR179,386.7,,,9,304,457,63.1,Russell,Gage,GageR.,,,,Russell GageR. Gage ATL,513,Russell Gage
+516,515,Elijhaa Penny,FA,,RB,139,,NYG,,Y,RB139,336.5,,,11,279,394,57.5,Elijhaa,Penny,PennyE.,,,,Elijhaa PennyE. Penny NYG,514,Elijhaa Penny
+517,516,Dwayne Washington,FA,Concussion,RB,140,,NO,,Y,RB140,341.0,out,"Washington suffered a concussion, and it is unclear how long it will take him to pass protocol.",9,289,393,52.0,Dwayne,Washington,WashingtonD.,NOR,RB,Dwayne Washington,Dwayne WashingtonD. Washington NO,515,Dwayne Washington
+518,517,Keelan Doss,FA,,WR,180,,FA,,Y,WR180,345.5,,,,295,396,50.5,Keelan,Doss,DossK.,,,,Keelan DossK. Doss FA,516,Keelan Doss
+519,518,Zach Line,FA,,RB,141,,NO,,Y,RB141,347.0,,,9,286,408,61.0,Zach,Line,LineZ.,,,,Zach LineZ. Line NO,517,Zach Line
+520,519,James Develin,FA,,RB,142,,NE,368.0,Y,RB142,348.0,,,10,297,399,51.0,James,Develin,DevelinJ.,,,,James DevelinJ. Develin NE,518,James Develin
+521,520,Lee Smith,FA,,TE,77,,BUF,,Y,TE77,353.0,,,6,262,444,91.0,Lee,Smith,SmithL.,,,,Lee SmithL. Smith BUF,519,Lee Smith
+522,521,Travis Fulgham,FA,,WR,181,,DET,,Y,WR181,353.5,,,5,311,396,42.5,Travis,Fulgham,FulghamT.,,,,Travis FulghamT. Fulgham DET,520,Travis Fulgham
+523,522,Austin Carr,FA,,WR,182,,NO,,Y,WR182,400.0,,,9,353,462,45.7,Austin,Carr,CarrA.,,,,Austin CarrA. Carr NO,521,Austin Carr
+524,523,Gehrig Dieter,FA,Back,WR,183,,KC,,Y,WR183,361.5,I-R,Dieter will spend an extended period on injured reserve due to a back injury.,12,317,406,44.5,Gehrig,Dieter,DieterG.,KAN,WR,Gehrig Dieter,Gehrig DieterG. Dieter KC,522,Gehrig Dieter
+525,524,Taylor Bertolet,FA,,K,8,,NYJ,,Y,K38,362.0,,,4,337,387,25.0,Taylor,Bertolet,BertoletT.,,,,Taylor BertoletT. Bertolet NYJ,523,Taylor Bertolet
+526,525,Garrett Celek,FA,Back,TE,78,,SF,,Y,TE78,404.7,I-R,Celek is healing from offseason back surgery and has been placed on the PUP list. It has yet to be determined when he will make his season debut.,4,359,455,39.3,Garrett,Celek,CelekG.,SFO,TE,Garrett Celek,Garrett CelekG. Celek SF,524,Garrett Celek
+527,526,Jeremy McNichols,FA,,RB,143,,FA,,Y,RB143,366.5,,,,254,479,112.5,Jeremy,McNichols,McNicholsJ.,,,,Jeremy McNicholsJ. McNichols FA,525,Jeremy McNichols
+528,527,David Fluellen,FA,Knee,RB,144,,TEN,,Y,RB144,370.0,questionable,"Fluellen had knee surgery conducted during the preseason, and it is unknown if he will make his season debut Week 1 against the Browns.",11,328,412,42.0,David,Fluellen,FluellenD.,TEN,RB,David Fluellen,David FluellenD. Fluellen TEN,527,David Fluellen
+529,528,Richie James,FA,,WR,184,,SF,,Y,WR184,411.0,,,4,404,425,9.9,Richie,James,JamesR.,,,,Richie JamesR. James SF,528,Richie James
+530,529,Matt Schaub,FA,,QB,53,,ATL,,Y,QB53,377.0,,,9,270,484,107.0,Matt,Schaub,SchaubM.,,,,Matt SchaubM. Schaub ATL,529,Matt Schaub
+531,530,Eric Saubert,FA,,TE,79,,FA,,Y,TE79,381.0,,,,338,424,43.0,Eric,Saubert,SaubertE.,,,,Eric SaubertE. Saubert FA,530,Eric Saubert
+532,531,Anthony Sherman,FA,,RB,145,,KC,,Y,RB145,382.0,,,12,327,437,55.0,Anthony,Sherman,ShermanA.,,,,Anthony ShermanA. Sherman KC,531,Anthony Sherman
+533,532,Brice Butler,FA,,WR,185,,FA,,Y,WR185,382.0,,,,368,396,14.0,Brice,Butler,ButlerB.,,,,Brice ButlerB. Butler FA,532,Brice Butler
+534,533,Darren Fells,FA,,TE,80,,HOU,,Y,TE80,418.3,,,10,330,483,64.7,Darren,Fells,FellsD.,,,,Darren FellsD. Fells HOU,533,Darren Fells
+535,534,Daurice Fountain,FA,Ankle,WR,186,,IND,,Y,WR186,385.5,I-R,Fountain has hit the injured reserve list after having surgery to fix a dislocated and fractured left ankle.,6,385,386,0.5,Daurice,Fountain,FountainD.,IND,WR,Daurice Fountain,Daurice FountainD. Fountain IND,534,Daurice Fountain
+536,535,Damion Ratley,FA,,WR,187,,CLE,,Y,WR187,389.0,,,7,307,471,82.0,Damion,Ratley,RatleyD.,,,,Damion RatleyD. Ratley CLE,535,Damion Ratley
+537,536,Stephen Anderson,FA,,TE,81,,FA,,Y,TE81,389.5,,,,358,421,31.5,Stephen,Anderson,AndersonS.,,,,Stephen AndersonS. Anderson FA,536,Stephen Anderson
+538,537,Marvin Hall,FA,,WR,188,,FA,,Y,WR188,389.5,,,,359,420,30.5,Marvin,Hall,HallM.,,,,Marvin HallM. Hall FA,537,Marvin Hall
+539,538,Kenjon Barner,FA,,RB,146,,ATL,,Y,RB146,393.0,,,9,326,460,67.0,Kenjon,Barner,BarnerK.,,,,Kenjon BarnerK. Barner ATL,538,Kenjon Barner
+540,539,Vyncint Smith,FA,,WR,189,,FA,,Y,WR189,397.0,,,,324,470,73.0,Vyncint,Smith,SmithV.,,,,Vyncint SmithV. Smith FA,539,Vyncint Smith
+541,540,Taquan Mizzell,FA,,RB,147,,FA,,Y,RB147,399.5,,,,383,416,16.5,Taquan,Mizzell,MizzellT.,,,,Taquan MizzellT. Mizzell FA,540,Taquan Mizzell
+542,541,Chad Williams,FA,,WR,190,,FA,389.0,Y,WR190,401.0,,,,363,439,38.0,Chad,Williams,WilliamsC.,,,,Chad WilliamsC. Williams FA,541,Chad Williams
+543,542,Andy Janovich,FA,Pectoral,RB,148,,DEN,,Y,RB148,405.0,out,Janovich suffered a strained pectoral muscle and he is not expected to be make his season debut until the early part of October.,10,379,431,26.0,Andy,Janovich,JanovichA.,DEN,FB,Andy Janovich,Andy JanovichA. Janovich DEN,542,Andy Janovich
+544,543,Ishmael Hyman,FA,,WR,191,,FA,,Y,WR191,414.0,,,,384,444,30.0,Ishmael,Hyman,HymanI.,,,,Ishmael HymanI. Hyman FA,543,Ishmael Hyman
+545,544,T.J. Logan,FA,,RB,149,,ARI,,Y,RB149,414.5,,,12,375,454,39.5,T.J.,Logan,LoganT.,,,,T.J. LoganT. Logan ARI,544,T.J. Logan
+546,545,Patrick DiMarco,FA,,RB,150,,BUF,,Y,RB150,414.5,,,6,387,442,27.5,Patrick,DiMarco,DiMarcoP.,,,,Patrick DiMarcoP. DiMarco BUF,545,Patrick DiMarco
+547,546,Logan Paulsen,FA,,TE,82,,FA,,Y,TE82,415.5,,,,393,438,22.5,Logan,Paulsen,PaulsenL.,,,,Logan PaulsenL. Paulsen FA,546,Logan Paulsen
+548,547,Jamize Olawale,FA,,RB,151,,DAL,,Y,RB151,417.0,,,8,385,449,32.0,Jamize,Olawale,OlawaleJ.,,,,Jamize OlawaleJ. Olawale DAL,547,Jamize Olawale
+549,548,Derek Watt,FA,Shoulder,RB,152,,LAC,,Y,RB152,419.0,out,"Watt had shoulder surgery, and there is no timetable for recovery.",12,377,461,42.0,Derek,Watt,WattD.,LAC,FB,Derek Watt,Derek WattD. Watt LAC,548,Derek Watt
+550,549,Quinton Flowers,FA,,QB,54,,FA,,Y,QB54,420.5,,,,373,468,47.5,Quinton,Flowers,FlowersQ.,,,,Quinton FlowersQ. Flowers FA,549,Quinton Flowers
+551,550,Dalton Schultz,FA,,TE,83,,DAL,,Y,TE83,443.5,,,8,403,484,40.5,Dalton,Schultz,SchultzD.,,,,Dalton SchultzD. Schultz DAL,550,Dalton Schultz
+552,551,Drew Sample,FA,,TE,84,,CIN,,Y,TE84,455.0,,,9,428,482,27.0,Drew,Sample,SampleD.,,,,Drew SampleD. Sample CIN,551,Drew Sample
+553,552,Anthony Firkser,FA,,TE,85,,TEN,,Y,TE85,460.5,,,11,441,480,19.5,Anthony,Firkser,FirkserA.,,,,Anthony FirkserA. Firkser TEN,552,Anthony Firkser
+554,553,Seth DeValve,FA,,TE,86,,FA,,Y,TE86,462.5,,,,437,488,25.5,Seth,DeValve,DeValveS.,,,,Seth DeValveS. DeValve FA,553,Seth DeValve
+555,554,Jordan Leggett,FA,,TE,87,,FA,,Y,TE87,468.5,,,,447,490,21.5,Jordan,Leggett,LeggettJ.,,,,Jordan LeggettJ. Leggett FA,554,Jordan Leggett
+556,555,Jeremy Sprinkle,FA,,TE,88,,WAS,,Y,TE88,469.0,,,10,449,489,20.0,Jeremy,Sprinkle,SprinkleJ.,,,,Jeremy SprinkleJ. Sprinkle WAS,555,Jeremy Sprinkle
